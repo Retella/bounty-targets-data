@@ -1,0 +1,48 @@
+name: HackerOne Pipeline Automática
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Se ejecuta cada hora
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repositorio
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Descarga el historial para comparar los últimos 7 días
+
+      - name: Sincronizar datos de Upstream
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote add upstream https://github.com/arkadiyt/bounty-targets-data.git
+          git fetch upstream
+          git merge upstream/main --no-edit || true
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Instalar Dependencias
+        run: pip install requests
+
+      - name: 1. Ejecutar Notificador de Telegram
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python notify_new_program.py
+
+      - name: 2. Generar Dashboard Web
+        run: python build_web_dashboard.py
+
+      - name: 3. Publicar index.html en GitHub Pages
+        run: |
+          git add index.html
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update web dashboard" && git push origin main)
