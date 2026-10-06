@@ -1,6 +1,7 @@
 import json
 import subprocess
 import sys
+from collections import defaultdict
 
 FILE_PATH = "data/hackerone_data.json"
 
@@ -34,7 +35,6 @@ def extract_bounty_web_assets(data):
 
 def main():
     new_data = get_git_json("HEAD") or []
-    # 168 commits equivale a 7 días exactos en este repositorio
     old_data = get_git_json("HEAD~168") or get_git_json("HEAD~50") or []
 
     old_assets = extract_bounty_web_assets(old_data)
@@ -42,50 +42,54 @@ def main():
 
     added_keys = set(new_assets.keys()) - set(old_assets.keys())
 
-    showing_new = True
-    display_keys = list(added_keys)
-
-    # Si no hay dominios nuevos en los últimos 7 días, muestra los activos con bounty vigentes
-    if not display_keys:
-        showing_new = False
-        display_keys = list(new_assets.keys())[:50]
-
-    title_text = "🎯 Nuevos Activos con Bounty (Últimos 7 días)" if showing_new else "📋 Targets con Bounty Activos en HackerOne"
-    subtitle_text = f"Nuevos añadidos esta semana: {len(added_keys)}" if showing_new else "No se añadieron subdominios nuevos en los últimos 7 días. Mostrando activos principales con recompensa:"
+    # Agrupar activos por programa (handle)
+    grouped = defaultdict(list)
+    for key in added_keys:
+        item = new_assets[key]
+        grouped[item['handle']].append(item)
 
     html_content = f"""<!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>H1 Bounty Targets - Móvil</title>
+    <title>H1 Scope Updates - Móvil</title>
     <style>
         body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 15px; margin: 0; }}
         h1 {{ color: #58a6ff; font-size: 1.3rem; margin-bottom: 5px; }}
         .subtitle {{ font-size: 0.85rem; color: #8b949e; margin-bottom: 15px; background: #161b22; padding: 8px 12px; border-radius: 6px; border: 1px solid #30363d; }}
-        .card {{ background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 12px; margin-bottom: 12px; }}
-        .asset {{ font-family: monospace; color: #7ee787; font-size: 1rem; word-break: break-all; font-weight: bold; }}
-        .meta {{ font-size: 0.85rem; color: #8b949e; margin-top: 6px; }}
-        .badge {{ display: inline-block; background: #238636; color: white; padding: 2px 6px; border-radius: 4px; font-size: 0.75rem; font-weight: bold; }}
+        .card {{ background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 14px; margin-bottom: 14px; }}
+        .prog-title {{ font-size: 1.1rem; color: #f0f6fc; font-weight: bold; margin-bottom: 6px; }}
+        .prog-handle {{ color: #8b949e; font-size: 0.9rem; font-weight: normal; }}
+        .badge {{ display: inline-block; background: #238636; color: white; padding: 2px 8px; border-radius: 12px; font-size: 0.75rem; font-weight: bold; margin-left: 6px; }}
+        .asset-list {{ margin: 10px 0; padding-left: 0; }}
+        .asset-item {{ font-family: monospace; color: #7ee787; font-size: 0.95rem; word-break: break-all; padding: 4px 0; border-bottom: 1px dashed #21262d; }}
+        .asset-item:last-child {{ border-bottom: none; }}
+        .type-tag {{ font-size: 0.75rem; color: #8b949e; background: #21262d; padding: 1px 5px; border-radius: 3px; font-family: sans-serif; margin-left: 5px; }}
         a {{ color: #58a6ff; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 8px; font-size: 0.9rem; }}
     </style>
 </head>
 <body>
-    <h1>{title_text}</h1>
-    <div class="subtitle">{subtitle_text}</div>
+    <h1>🎯 Programas que Actualizaron Scope (Últimos 7 días)</h1>
+    <div class="subtitle">Programas actualizados: {len(grouped)} | Total nuevos activos: {len(added_keys)}</div>
 """
 
-    for key in display_keys:
-        item = new_assets[key]
-        html_content += f"""
+    if not grouped:
+        html_content += '<div class="card"><p style="margin:0; color:#8b949e;">No se añadieron subdominios/activos nuevos en los últimos 7 días.</p></div>'
+    else:
+        for handle, items in grouped.items():
+            prog_name = items[0]['program']
+            prog_url = items[0]['url']
+            html_content += f"""
     <div class="card">
-        <div class="asset">{item['asset']}</div>
-        <div class="meta">Programa: <strong>{item['program']}</strong> (@{item['handle']})</div>
-        <div style="margin-top:5px;">
-            <span class="badge">{item['type']}</span>
-            <span style="font-size:0.8rem; color:#8b949e; margin-left:8px;">Max: {item['severity']}</span>
+        <div class="prog-title">{prog_name} <span class="prog-handle">(@{handle})</span> <span class="badge">+{len(items)} activos</span></div>
+        <div class="asset-list">"""
+            for item in items:
+                html_content += f"""
+            <div class="asset-item">• {item['asset']} <span class="type-tag">{item['type']}</span></div>"""
+            html_content += f"""
         </div>
-        <a href="{item['url']}" target="_blank">Ver Programa en HackerOne &rarr;</a>
+        <a href="{prog_url}" target="_blank">Ver Programa en HackerOne &rarr;</a>
     </div>"""
 
     html_content += "\n</body>\n</html>"
