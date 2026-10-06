@@ -33,13 +33,25 @@ def extract_bounty_web_assets(data):
     return assets
 
 def main():
-    old_data = get_git_json("HEAD@{7.days.ago}") or get_git_json("HEAD~50") or []
     new_data = get_git_json("HEAD") or []
+    # 168 commits equivale a 7 días exactos en este repositorio
+    old_data = get_git_json("HEAD~168") or get_git_json("HEAD~50") or []
 
     old_assets = extract_bounty_web_assets(old_data)
     new_assets = extract_bounty_web_assets(new_data)
 
     added_keys = set(new_assets.keys()) - set(old_assets.keys())
+
+    showing_new = True
+    display_keys = list(added_keys)
+
+    # Si no hay dominios nuevos en los últimos 7 días, muestra los activos con bounty vigentes
+    if not display_keys:
+        showing_new = False
+        display_keys = list(new_assets.keys())[:50]
+
+    title_text = "🎯 Nuevos Activos con Bounty (Últimos 7 días)" if showing_new else "📋 Targets con Bounty Activos en HackerOne"
+    subtitle_text = f"Nuevos añadidos esta semana: {len(added_keys)}" if showing_new else "No se añadieron subdominios nuevos en los últimos 7 días. Mostrando activos principales con recompensa:"
 
     html_content = f"""<!DOCTYPE html>
 <html lang="es">
@@ -50,7 +62,7 @@ def main():
     <style>
         body {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0d1117; color: #c9d1d9; padding: 15px; margin: 0; }}
         h1 {{ color: #58a6ff; font-size: 1.3rem; margin-bottom: 5px; }}
-        .subtitle {{ font-size: 0.85rem; color: #8b949e; margin-bottom: 15px; }}
+        .subtitle {{ font-size: 0.85rem; color: #8b949e; margin-bottom: 15px; background: #161b22; padding: 8px 12px; border-radius: 6px; border: 1px solid #30363d; }}
         .card {{ background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 12px; margin-bottom: 12px; }}
         .asset {{ font-family: monospace; color: #7ee787; font-size: 1rem; word-break: break-all; font-weight: bold; }}
         .meta {{ font-size: 0.85rem; color: #8b949e; margin-top: 6px; }}
@@ -59,11 +71,11 @@ def main():
     </style>
 </head>
 <body>
-    <h1>🎯 Nuevos Activos Web con Bounty</h1>
-    <div class="subtitle">Añadidos en los últimos 7 días | Total: {len(added_keys)}</div>
+    <h1>{title_text}</h1>
+    <div class="subtitle">{subtitle_text}</div>
 """
 
-    for key in added_keys:
+    for key in display_keys:
         item = new_assets[key]
         html_content += f"""
     <div class="card">

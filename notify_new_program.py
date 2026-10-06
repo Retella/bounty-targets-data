@@ -41,20 +41,19 @@ def extract_programs(json_data):
     return programs
 
 def main():
-    old_progs = extract_programs(get_git_json("HEAD~1"))
+    old_progs = extract_programs(get_git_json("HEAD~1000"))
     new_progs = extract_programs(get_git_json("HEAD"))
 
     new_handles = set(new_progs.keys()) - set(old_progs.keys())
 
     if not new_handles:
         print("[+] No hay programas nuevos en esta actualización.")
-        send_telegram("Holaaaa esto es una pruebecilla")
         return
 
     for handle in new_handles:
         p = new_progs[handle]
         bounty_status = "💰 *PAGA RECOMPENSAS (Bounty)*" if p["offers_bounties"] else "ℹ️ *PROGRAMA VDP (Sin Dinero)*"
-
+        
         msg = (
             f"🚀 *¡NUEVO PROGRAMA PUBLICADO EN HACKERONE!*\n\n"
             f"*Nombre:* {p['name']}\n"
