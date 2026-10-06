@@ -11,7 +11,7 @@ TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 def send_telegram(msg):
     if not TELEGRAM_TOKEN or not TELEGRAM_CHAT_ID:
-        print("⚠️ Variables de Telegram no encontradas. Saltando envío de mensaje.")
+        print("⚠️ Credenciales de Telegram no encontradas en el entorno.")
         return
     url = f"https://api.telegram.org/bot{TELEGRAM_TOKEN}/sendMessage"
     payload = {
@@ -23,18 +23,36 @@ def send_telegram(msg):
     try:
         res = requests.post(url, json=payload, timeout=10)
         if res.status_code == 200:
-            print("✅ Alerta enviada a Telegram.")
+            print("✅ Notificación enviada a Telegram.")
         else:
             print(f"❌ Error de Telegram ({res.status_code}): {res.text}")
     except Exception as e:
         print(f"❌ Error conectando con Telegram: {e}")
+
+def get_real_data_commit(offset_index):
+    """
+    Busca el Hash del commit exacto donde realmente cambió hackerone_data.json,
+    ignorando los commits de index.html creados por el bot.
+    """
+    try:
+        res = subprocess.run(
+            ["git", "log", f"-n", str(offset_index), "--format=%H", "--", FILE_PATH],
+            capture_output=True, text=True, check=True
+        )
+        commits = [c.strip() for c in res.stdout.strip().split("\n") if c.strip()]
+        if commits:
+            # Retorna el commit más antiguo de la lista solicitada
+            return commits[-1]
+    except Exception as e:
+        print(f"⚠️ Error consultando git log para {FILE_PATH}: {e}")
+    return None
 
 def get_git_json(commit_ref):
     try:
         res = subprocess.run(["git", "show", f"{commit_ref}:{FILE_PATH}"], capture_output=True, text=True, check=True)
         return json.loads(res.stdout)
     except Exception as e:
-        print(f"⚠️ No se pudo leer la revisión '{commit_ref}': {e}")
+        print(f"⚠️ No se pudo leer {FILE_PATH} en la revisión {commit_ref}: {e}")
         return None
 
 def extract_programs(json_data):
@@ -59,29 +77,40 @@ def extract_programs(json_data):
     return programs
 
 def main():
-    target_ref = sys.argv[1] if len(sys.argv) > 1 else "HEAD~1"
+    # Si se pasa un argumento numérico (ej. 500) o un commit ref, lo usa; si no, analiza el cambio más reciente
+    depth_arg = sys.argv[1] if len(sys.argv) > 1 else "1"
+
+    if depth_arg.isdigit():
+        target_ref = get_real_data_commit(int(depth_arg))
+    else:
+        target_ref = depth_arg
+
+    if not target_ref:
+        target_ref = "HEAD~1"
+
+    print(f"🔍 Comparando cambios de datos reales en {FILE_PATH}:")
+    print(f"   Commit base: {target_ref} ──> HEAD")
 
     new_data = get_git_json("HEAD")
     old_data = get_git_json(target_ref)
 
-    if not new_data:
-        print("❌ No se pudo cargar HEAD. Saliendo sin error.")
-        return
-
-    if not old_data:
-        print(f"⚠️ No existe la referencia {target_ref} en el historial de Git. Omitiendo comparación.")
+    if not new_data or not old_data:
+        print("❌ No se pudieron obtener los datos de Git para realizar la comparación.")
         return
 
     old_progs = extract_programs(old_data)
     new_progs = extract_programs(new_data)
 
+    print(f"   • Programas detectados en revisión antigua: {len(old_progs)}")
+    print(f"   • Programas detectados en HEAD: {len(new_progs)}")
+
     new_handles = set(new_progs.keys()) - set(old_progs.keys())
 
     if not new_handles:
-        print("[+] No hay programas nuevos en esta actualización.")
+        print("[+] No hay programas nuevos entre estas dos revisiones de datos.")
         return
 
-    print(f"🎉 ¡Se han detectado {len(new_handles)} programa(s) nuevo(s)!")
+    print(f"🎉 ¡Se han detectado {len(new_handles)} programa(s) nuevo(s)!: {', '.join(new_handles)}")
 
     for handle in new_handles:
         p = new_progs[handle]
