@@ -37,7 +37,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python notify_new_program.py 500
+        run: python notify_new_program.py 2
 
       - name: 2. Generar Dashboard Web
         run: python build_web_dashboard.py
