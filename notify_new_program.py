@@ -48,13 +48,13 @@ def main():
 
     if not new_handles:
         print("[+] No hay programas nuevos en esta actualización.")
-	send_telegram("Holaaaa esto es una pruebecilla")
+        send_telegram("Holaaaa esto es una pruebecilla")
         return
 
     for handle in new_handles:
         p = new_progs[handle]
         bounty_status = "💰 *PAGA RECOMPENSAS (Bounty)*" if p["offers_bounties"] else "ℹ️ *PROGRAMA VDP (Sin Dinero)*"
-        
+
         msg = (
             f"🚀 *¡NUEVO PROGRAMA PUBLICADO EN HACKERONE!*\n\n"
             f"*Nombre:* {p['name']}\n"
