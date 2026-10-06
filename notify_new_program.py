@@ -48,6 +48,7 @@ def main():
 
     if not new_handles:
         print("[+] No hay programas nuevos en esta actualización.")
+	send_telegram("Holaaaa esto es una pruebecilla")
         return
 
     for handle in new_handles:
