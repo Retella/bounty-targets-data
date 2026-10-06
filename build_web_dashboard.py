@@ -70,7 +70,7 @@ def main():
     </style>
 </head>
 <body>
-    <h1>🎯 Programas que Actualizaron Scope (Últimos 7 días)</h1>
+    <h1>🎯 Programas que Actualizaron Scope (Último mes)</h1>
     <div class="subtitle">Programas actualizados: {len(grouped)} | Total nuevos activos: {len(added_keys)}</div>
 """
 
