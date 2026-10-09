@@ -3087,6 +3087,7 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3373,8 +3374,12 @@ aqora.naiad.*
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.unibas.ch
+*.optimuscards.com
+*.topperpay.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.vlerick.com
 *.voi.com
 *.voiscooters.com
