@@ -636,7 +636,6 @@ api.pinterest.com
 microsoftedge.microsoft.com
 addons.mozilla.org
 www.shffls.com
-pixabay.com
 my.planethoster.com
 api.planethoster.net
 world.planethoster.net
@@ -11783,6 +11782,7 @@ brumikobjavitel.sk
 brumikobjevitel.cz
 bundakraft.com
 ca.oreobts.com
+cadbury.co.sa
 cadbury.co.uk
 cadbury.co.za
 cadbury.com.au
@@ -11893,12 +11893,14 @@ lojamondelez.com.br
 loteria7days.pl
 loteriamilka.pl
 loteriaoreo.pl
+lu.fr
 lubakery.co.uk
 lubiscuits.eu
 lumeabarni.ro
 lusingingpacks.nl
 marabou.com
 matt-pokora.milka.com
+mavieencouleurs.fr
 mdlzcollaboration.com
 mdlzcusthelp.ca
 mdlzcusthelp.com
@@ -11954,6 +11956,7 @@ oreo.mx
 oreo.ru
 oreocookie.jp
 oreofun.dk
+oreokitchen.ma
 oreoplayful.ca
 oreoplayful.com
 oreopromo.com
@@ -12009,6 +12012,7 @@ sklepoweszukajki.pl
 smagenafguld.marabou.dk
 smartlabel.mondelez.info
 smukfest.marabou.dk
+snack-central.com
 snackbites.in
 snackdisplay.co.uk
 snackfest.ro
@@ -12259,6 +12263,7 @@ zebrasoftware.com
 1889-p2.onlinebank.com
 1889.onlinebank.com
 1edcu-admin.originate.fiservapps.com
+1edcu-dc.cert.fec-dc.fiservapps.com
 1edcu.originate.fiservapps.com
 1fsb-admin.originate.fiservapps.com
 1nbbank.onlinebank.com
@@ -12271,6 +12276,7 @@ zebrasoftware.com
 1stnatbk.originate.fiservapps.com
 1stsecurity-temp.olbanking.com
 1stsecuritydl.configure-cert.fiservapps.com
+2riversacu-dc.cert.fec-dc.fiservapps.com
 360control.fdecs.com
 360control.fiservapp.com
 3ds-amit.staging.cloveronline.com
@@ -12541,6 +12547,7 @@ architectxdtest1.fiserv.io
 architectxdtest2.fiserv.io
 arecu-dc.cert.fec-dc.fiservapps.com
 argo01-opencheck.fiservapps.com
+arkansassuperiorfcu-dc.cert.fec-dc.fiservapps.com
 arkansassuperiorfcu-dn.financial-net.com
 armor-p2.onlinebank.com
 armor.onlinebank.com
@@ -12564,6 +12571,8 @@ asfcu.originate.fiservapps.com
 ashcroftandoak.fdecs.com
 ashcroftandoakcat.fdecs.com
 aspirecu-admin.originate.fiservapps.com
+aspirecu-dc.cert.fec-dc.fiservapps.com
+aspirecu-dn.financial-net.com
 aspirecu.originate.fiservapps.com
 associatebank.fdecs.com
 astra-admin.originate.fiservapps.com
@@ -12606,6 +12615,7 @@ averp-posnet.fiservapis.com
 axoscert-temp.olbanking.com
 axoscert.olbanking.com
 azcertperfprm-qa.fiserv.io
+azcopperfcu-dc.cert.fec-dc.fiservapps.com
 azdevperfsmt-qa.fiserv.io
 azulzinha.dev.portaldocliente.fiserv.com
 azulzinhapay.com.br
@@ -12772,6 +12782,7 @@ beaconbusinessbank-admin.originate.fiservapps.com
 beaconbusinessbank.onlinebank.com
 beaconbusinessbank.originate.fiservapps.com
 beaconcu.architect-cert.fiservapps.com
+beaconfcu-dc.cert.fec-dc.fiservapps.com
 beapi-cert.fiservapis.com
 bedandbreakfast.wgiftcard.com
 bedfed-admin.originate.fiservapps.com
@@ -12795,9 +12806,11 @@ bestbuy.gift.solutions
 bestbuymexico.wgiftcard.com
 bestcu-dc.cert.fec-dc.fiservapps.com
 bfgfcu-admin.originate.fiservapps.com
+bfgfcu-dc.cert.fec-dc.fiservapps.com
 bfgfcu-dn.financial-net.com
 bfgfcu.originate.fiservapps.com
 bfsfcu.architect-cert.fiservapps.com
+bhcefcu-dc.cert.fec-dc.fiservapps.com
 bhcscu-galaxy-admin.originate.fiservapps.com
 bhcscu-galaxy.originate.fiservapps.com
 bhm-admin.originate.fiservapps.com
@@ -12945,6 +12958,7 @@ cal-ed-dc.cert.fec-dc.fiservapps.com
 calvinklein.gift.solutions
 calvinklein.wgiftcard.com
 cambridgesavingsuat.caaweb.com
+campbellcu-dc.cert.fec-dc.fiservapps.com
 campshelbycreditunion-admin.originate.fiservapps.com
 campshelbycreditunion.originate.fiservapps.com
 campshelbycu-dc.cert.fec-dc.fiservapps.com
@@ -13470,6 +13484,7 @@ costco.gift.solutions
 costco.wgiftcard.com
 costcoau.wgiftcard.com
 costcoshopcard.com
+cottonbeltfcu-dc.cert.fec-dc.fiservapps.com
 cottonbeltfcu-dn.financial-net.com
 councillfcu-dc.cert.fec-dc.fiservapps.com
 cpwrfcu-admin.originate.fiservapps.com
@@ -13504,6 +13519,7 @@ cscfederal-dc.cert.fec-dc.fiservapps.com
 cscutx-dc.cert.fec-dc.fiservapps.com
 csdcu-dc.cert.fec-dc.fiservapps.com
 csecreditunion-admin.originate.fiservapps.com
+csecreditunion-dc.cert.fec-dc.fiservapps.com
 csecreditunion.originate.fiservapps.com
 csm.vnlat-cat.fiservapps.com
 csm.vnlat.fiservapps.com
@@ -13519,6 +13535,7 @@ cu14901.verifast-btat2.fiservapps.com
 cub.gift.solutions
 cub.wgiftcard.com
 cubstore.wgiftcard.com
+cubv-dc.cert.fec-dc.fiservapps.com
 cucc.fdecs.com
 cucccat.fdecs.com
 cudodge-admin.originate.fiservapps.com
@@ -13528,11 +13545,14 @@ cullmansavingsbank.originate.fiservapps.com
 culvers.gift.solutions
 culvers.wgiftcard.com
 culversstore.wgiftcard.com
+cumberlandcu-dc.cert.fec-dc.fiservapps.com
+cumberlandcu-dn.financial-net.com
 cumberlandfederal-admin.originate.fiservapps.com
 cumberlandfederal-p2.onlinebank.com
 cumberlandfederal.configure-cert.fiservapps.com
 cumberlandfederal.onlinebank.com
 cumberlandfederal.originate.fiservapps.com
+cuofe-dc.cert.fec-dc.fiservapps.com
 cuonline.cvfcu.com
 currencyorder.com
 cus-hp-web-dev.fiservapps.com
@@ -13564,6 +13584,7 @@ davcoe-tableau-naexternal-prod.fiservapps.com
 davcoe-tableau-naexternal-qa.fiservapps.com
 davcoe-tableau-naexternal.fiservapps.com
 davisonfcu-dc.cert.fec-dc.fiservapps.com
+davisonfcu-dn.financial-net.com
 dcalonline.com
 dcu-cengg-dev.fiservapps.com
 ddrmapi-cert.fiservapis.com
@@ -13576,6 +13597,7 @@ debenhamsstoreroi.wgiftcard.co
 debenhamsstoreuk.wgiftcard.co
 debenhamsuk.wgiftcard.co
 decaturcountybank.onlinebank.com
+dedhamcu-dc.cert.fec-dc.fiservapps.com
 deepwaterind-admin.originate.fiservapps.com
 deepwaterind-dc.cert.fec-dc.fiservapps.com
 deepwaterind.originate.fiservapps.com
@@ -13812,6 +13834,7 @@ elmerbank.architect-cert.fiservapps.com
 elmerbank.onlinebank.com
 embassynationalbank-p2.onlinebank.com
 embassynationalbank.onlinebank.com
+emcu-dc.cert.fec-dc.fiservapps.com
 emea-secureauth-cat.fiservapps.com
 emea-secureauth.fiservapps.com
 emea-ssoca-cat.fiservapps.com
@@ -13841,6 +13864,7 @@ empowerbluecu.originate.fiservapps.com
 emprisebank.fdecs.com
 emsgws.emessenger-fd.com
 enbrightcu-admin.originate.fiservapps.com
+enbrightcu-dc.cert.fec-dc.fiservapps.com
 enbrightcu.originate.fiservapps.com
 enterprise-p2.onlinebank.com
 enterprise-temp.olbanking.com
@@ -13887,6 +13911,7 @@ evault4-web.fiservapps.com
 evaultdsm01.com
 everywherereward.com
 evolvecat.fdecs.com
+ewcu-dc.cert.fec-dc.fiservapps.com
 exchangestatebank-admin.originate.fiservapps.com
 exchangestatebank.originate.fiservapps.com
 expresspos-cat.firstdata.com
@@ -14252,6 +14277,7 @@ fsbnh.onlinebank.com
 fsbuvalde-p2.onlinebank.com
 fsbuvalde.onlinebank.com
 fsbwaupaca-p2.onlinebank.com
+fscu-dc.cert.fec-dc.fiservapps.com
 fsnb.icm-uat.fiservapps.com
 fsnb.icm.fiservapps.com
 fsrvunifiedlogin.fiserv.io
@@ -14280,6 +14306,7 @@ gaineybusinessbank-p2.onlinebank.com
 gaineybusinessbank.onlinebank.com
 galaxyfcu-admin.originate.fiservapps.com
 galaxyfcu.originate.fiservapps.com
+gardenstatefcu-dc.cert.fec-dc.fiservapps.com
 gate.wgiftcard.com
 gateschilifcu-admin.originate.fiservapps.com
 gateschilifcu-dc.cert.fec-dc.fiservapps.com
@@ -14448,6 +14475,7 @@ heritagebankofcommerce-p2.onlinebank.com
 heritagebankofcommerce.onlinebank.com
 heritagecert-temp.olbanking.com
 heritagecert.olbanking.com
+heritageusa-dc.cert.fec-dc.fiservapps.com
 herringbank.fdecs.com
 herringbankcat.fdecs.com
 hetelfcu-dc.cert.fec-dc.fiservapps.com
@@ -14502,6 +14530,7 @@ hornbachersstore.wgiftcard.com
 hou2-web.personix.com
 hou2.personix.com
 houlihansstore.wgiftcard.com
+houstonhighwaycu-dc.cert.fec-dc.fiservapps.com
 houstonhighwaycu-dn.financial-net.com
 hoyne-c2.configure-digital-cert.fiservapps.com
 hoyne-p2.onlinebank.com
@@ -14636,6 +14665,7 @@ aeacu-dn.financial-net.com
 afecu-dn.financial-net.com
 affinityonefcu-dc.cert.fec-dc.fiservapps.com
 affinityonefcu-dn.financial-net.com
+aflacfcu-dc.cert.fec-dc.fiservapps.com
 aflacfcu-dn.financial-net.com
 agfed.onlinebank.com
 aggregationxa.rjf.com
@@ -14681,6 +14711,7 @@ ancfcu-dn.financial-net.com
 androscogginbank.caaweb.com
 anico-acpt.mywc3.net
 anico.wc3.com
+anmedfcu-dn.financial-net.com
 anmedhealthfcu-dc.cert.fec-dc.fiservapps.com
 anmedhealthfcu-dn.financial-net.com
 anmedhealthfcu.com
@@ -15028,6 +15059,7 @@ blueflamecu-admin.originate.fiservapps.com
 blueflamecu-dn.financial-net.com
 blueflamecu.originate.fiservapps.com
 bluewaterfcu-dn.financial-net.com
+bnfcu-dn.financial-net.com
 bnfcu.org
 bnfcu.vbwebservices.com
 bnkwest.caaweb.com
@@ -15271,6 +15303,7 @@ cbctfcu.originate.fiservapps.com
 cbfcreditunion-dc.cert.fec-dc.fiservapps.com
 cbfcreditunion-dn.financial-net.com
 cbifcu-admin.originate.fiservapps.com
+cbifcu-dc.cert.fec-dc.fiservapps.com
 cbifcu-dn.financial-net.com
 cbifcu.originate.fiservapps.com
 cbopc.originate.fiservapps.com
@@ -15320,6 +15353,7 @@ cenlafcu.originate.fiservapps.com
 centerstatebank.caaweb.com
 centexcitizenscu-admin.originate.fiservapps.com
 centexcitizenscu.originate.fiservapps.com
+centexmfgcu-dn.financial-net.com
 centralmainecu-admin.originate.fiservapps.com
 centralmainecu-dc.cert.fec-dc.fiservapps.com
 centralmainecu-dn.financial-net.com
@@ -15502,6 +15536,7 @@ cfsfcu.com
 cfsfcu.vbwebservices.com
 cftest.amegybank.com
 cftest.golden1.com
+cgrcu-dc.cert.fec-dc.fiservapps.com
 cgrcu-dn.financial-net.com
 ch-ca-cat2.fiservapps.com
 ch-ca-mconsole-cat2.fiservapps.com
@@ -15561,6 +15596,7 @@ chargebackcentral.fiservapps.com
 chatelfcu-dn.financial-net.com
 chatelfcu.com
 chatelfcu.vbwebservices.com
+chatt-dc.cert.fec-dc.fiservapps.com
 chatt-dn.financial-net.com
 chattfirst-dc.cert.fec-dc.fiservapps.com
 chattfirst-dn.financial-net.com
@@ -15576,6 +15612,7 @@ chemungcanal.caaweb.com
 chevron.wfg-baweb.com
 chhe-dc.cert.fec-dc.fiservapps.com
 chhe-dn.financial-net.com
+chicagoavegfcu-dc.cert.fec-dc.fiservapps.com
 chicagoavegfcu-dn.financial-net.com
 chicagoffcu-dn.financial-net.com
 choiceatmsmartsafes-corpoint.fiservapps.com
@@ -15622,6 +15659,7 @@ cl.businesstrack.com
 clairtonfcu-dn.financial-net.com
 classiccitybank-admin.originate.fiservapps.com
 classiccitybank.originate.fiservapps.com
+clcefcu-dn.financial-net.com
 cld-stage-getassistance.telecheck.com
 clent-test-uat.fiservapps.com
 clent-test.fiservapps.com
@@ -15694,6 +15732,7 @@ communitybankwi-admin.originate.fiservapps.com
 communitybankwi.originate.fiservapps.com
 communitypartnerssb-admin.originate.fiservapps.com
 communitypartnerssb.originate.fiservapps.com
+communitypromisefcu-dn.financial-net.com
 compassffcu-dc.cert.fec-dc.fiservapps.com
 compassffcu-dn.financial-net.com
 compc-richchannel3-cert.comerica.com
@@ -15978,6 +16017,7 @@ dovetail-saml-btat2.fiservapps.com
 dovetail-saml-cert.fiservapps.com
 dovetail-saml-prod.fiservapps.com
 dovetail.fiservapps.com
+dowellfcu-dn.financial-net.com
 downrivercommfcu-dc.cert.fec-dc.fiservapps.com
 downrivercommfcu-dn.financial-net.com
 downrivercu-admin.originate.fiservapps.com
@@ -16148,6 +16188,7 @@ eview7.secureinternetbank.com
 eview9.secureinternetbank.com
 evolve.us.hsbc.com
 ew22fcu-dc.cert.fec-dc.fiservapps.com
+ew22fcu-dn.financial-net.com
 ewcu-dn.financial-net.com
 exceedcard.com
 exchangepoint-uat.fiservapps.com
@@ -16231,6 +16272,7 @@ federalemployeescu.com
 federalemployeescu.vbwebservices.com
 felicianafcu-dc.cert.fec-dc.fiservapps.com
 felicianafcu-dn.financial-net.com
+fenfcu-dc.cert.fec-dc.fiservapps.com
 fenfcu-dn.financial-net.com
 fenfcu.vbwebservices.com
 fepas-cardse.softwareexpress.com.br
@@ -16240,6 +16282,8 @@ ffbalabama.originate.fiservapps.com
 ffbla.caaweb.com
 ffcb-admin.originate.fiservapps.com
 ffcb.originate.fiservapps.com
+ffcocu-dc.cert.fec-dc.fiservapps.com
+ffcocu-dn.financial-net.com
 ffcuga-dn.financial-net.com
 ffcuonline-dc.cert.fec-dc.fiservapps.com
 ffcuonline-dn.financial-net.com
@@ -16550,6 +16594,8 @@ greateriefcu-dc.cert.fec-dc.fiservapps.com
 greateriefcu-dn.financial-net.com
 greatsouthernbank.architect-cert.fiservapps.com
 greatsouthernbank.onlinebank.com
+greenbeltfcu-dc.cert.fec-dc.fiservapps.com
+greenbeltfcu-dn.financial-net.com
 greenfieldsavings-admin.originate.fiservapps.com
 greenfieldsavings.originate.fiservapps.com
 greenriverfcu-dc.cert.fec-dc.fiservapps.com
@@ -16565,6 +16611,7 @@ grinnell.bank-admin.originate.fiservapps.com
 grinnell.bank.originate.fiservapps.com
 grscu-admin.originate.fiservapps.com
 grscu.originate.fiservapps.com
+grwfcu-dn.financial-net.com
 gsafcu-admin.originate.fiservapps.com
 gsafcu-dn.financial-net.com
 gsafcu.gsa.gov
@@ -16625,6 +16672,7 @@ heafcu.vbwebservices.com
 healthcarefamilycreditunion-admin.originate.fiservapps.com
 healthcarefamilycreditunion.originate.fiservapps.com
 healthcarefirstcu-dc.cert.fec-dc.fiservapps.com
+healthcarefirstcu-dn.financial-net.com
 healthcarepaymentcard.com
 heartland-uat.hepsiian.com
 heartland.hepsiian.com
@@ -16634,6 +16682,7 @@ hecoefcu-dn.financial-net.com
 heico.wfg-baweb.com
 hellocu-admin.originate.fiservapps.com
 hellocu-dc.cert.fec-dc.fiservapps.com
+hellocu-dn.financial-net.com
 hellocu.originate.fiservapps.com
 hendrickscountybank.onlinebank.com
 heritage.caaweb.com
@@ -16870,6 +16919,7 @@ johnhancock-uat.hepsiian.com
 johnhancock.hepsiian.com
 jtvaecu-dc.cert.fec-dc.fiservapps.com
 jtvaecu-dn.financial-net.com
+kacfcu-dn.financial-net.com
 kacfcu.org
 kacfcu.vbwebservices.com
 kahukufcu-dn.financial-net.com
@@ -16898,6 +16948,7 @@ kembaky-dn.financial-net.com
 kennedyvaefcu-dn.financial-net.com
 keybank-icm.fiservapps.com
 kfcu-dc.cert.fec-dc.fiservapps.com
+kffcu-dc.cert.fec-dc.fiservapps.com
 kffcu-dn.financial-net.com
 kineticcu-admin.originate.fiservapps.com
 kineticcu.originate.fiservapps.com
@@ -16955,6 +17006,7 @@ lclfcu.org
 lclfcu.vbwebservices.com
 lcracu-dn.financial-net.com
 leadbank.caaweb.com
+leadcocu-dc.cert.fec-dc.fiservapps.com
 leadcocu-dn.financial-net.com
 leaderbank.caaweb.com
 legcu-dc.cert.fec-dc.fiservapps.com
@@ -16987,6 +17039,7 @@ lifetimefcu-dn.financial-net.com
 lifetimefcu.originate.fiservapps.com
 lincolnsdacu-dn.financial-net.com
 link.checkfreepay.com
+lionsharecu-dc.cert.fec-dc.fiservapps.com
 llcu-admin.originate.fiservapps.com
 llcu.originate.fiservapps.com
 lloydsbankcardnetportal.firstdata.com
@@ -17005,7 +17058,10 @@ lomasverdes-admin.originate.fiservapps.com
 lomasverdes.originate.fiservapps.com
 louviers-dn.financial-net.com
 lowellmefcu-dn.financial-net.com
+lpccu-dc.cert.fec-dc.fiservapps.com
 lpccu-dn.financial-net.com
+lpfcu-dc.cert.fec-dc.fiservapps.com
+lpfcu-dn.financial-net.com
 lpl-uat2.hepsiian.com
 lpl2.hepsiian.com
 lplev-uat.hepsiian.com
@@ -17046,10 +17102,12 @@ maple-bank-admin.originate.fiservapps.com
 maple-bank.originate.fiservapps.com
 marbleheadcu-dc.cert.fec-dc.fiservapps.com
 marbleheadcu-dn.financial-net.com
+marquettecomm-dc.cert.fec-dc.fiservapps.com
 marquettecomm-dn.financial-net.com
 maryvaleschoolsfcu-dc.cert.fec-dc.fiservapps.com
 maryvaleschoolsfcu-dn.financial-net.com
 masimo.wfg-baweb.com
+matson-dc.cert.fec-dc.fiservapps.com
 matson-dn.financial-net.com
 mauifcu-dc.cert.fec-dc.fiservapps.com
 mauifcu-dn.financial-net.com
@@ -17114,6 +17172,7 @@ members.1stadvantage.org
 membersccu.onlinebank.com
 memberscreditunion-admin.originate.fiservapps.com
 memberscreditunion-dn.financial-net.com
+membersffcu-dc.cert.fec-dc.fiservapps.com
 membersffcu-dn.financial-net.com
 memorial-dc.cert.fec-dc.fiservapps.com
 memorial-dn.financial-net.com
@@ -17210,6 +17269,7 @@ mngfcu-dn.financial-net.com
 mnteamsterscu-dc.cert.fec-dc.fiservapps.com
 mnteamsterscu-dn.financial-net.com
 mobgecu-dc.cert.fec-dc.fiservapps.com
+mobgecu-dn.financial-net.com
 mobgecu.com
 mobgecu.org
 mobgecu.vbwebservices.com
@@ -17250,6 +17310,7 @@ morrissheppardfcu-dn.financial-net.com
 mortgage.forchtbank.com
 mortgage.nexbank.com
 motionfcu-dc.cert.fec-dc.fiservapps.com
+motionfcu-dn.financial-net.com
 moundcitybank-admin.originate.fiservapps.com
 moundcitybank.originate.fiservapps.com
 mpefcu-dc.cert.fec-dc.fiservapps.com
@@ -17258,6 +17319,7 @@ mpi.safekey.3ds-amex.softwareexpress.com.br
 mrp1.cunetbranch.com
 msa-admin.originate.fiservapps.com
 msa.originate.fiservapps.com
+mspecu-dc.cert.fec-dc.fiservapps.com
 mspecu-dn.financial-net.com
 mspecu.org
 mspecu.vbwebservices.com
@@ -17278,6 +17340,7 @@ mutualsavings-dn.financial-net.com
 mvafcu-dc.cert.fec-dc.fiservapps.com
 mvafcu-dn.financial-net.com
 mvafcu.vbwebservices.com
+mvcfcu-dn.financial-net.com
 mwcfcu-admin.originate.fiservapps.com
 mwcfcu.originate.fiservapps.com
 mwffcu-dn.financial-net.com
@@ -17377,6 +17440,7 @@ ncb.caaweb.com
 nccdefcu-dc.cert.fec-dc.fiservapps.com
 nccdefcu-dn.financial-net.com
 nccu-tn-dn.financial-net.com
+ndcfcu-dc.cert.fec-dc.fiservapps.com
 neapfcu-dc.cert.fec-dc.fiservapps.com
 neapfcu-dn.financial-net.com
 neighborsfcu.architect-cert.fiservapps.com
@@ -17391,6 +17455,7 @@ neimanmarcusfcu.com
 neimanmarcusfcu.originate.fiservapps.com
 neimanmarcusfcu.vbwebservices.com
 nekoosacu-dc.cert.fec-dc.fiservapps.com
+nekoosacu-dn.financial-net.com
 nelnet.wc3.com
 netbranch.app.fiserv.com
 netbranch.fi-apps.com
@@ -17635,6 +17700,7 @@ onecommunityfcu.vbwebservices.com
 onecreditunion-admin.originate.fiservapps.com
 onecreditunion-dn.financial-net.com
 onecreditunion.originate.fiservapps.com
+onesouthfcu-dn.financial-net.com
 online-qa.firstdata.com
 online.356bank.com
 online.abricu.com
@@ -17856,6 +17922,7 @@ parknational.architect-cert.fiservapps.com
 parknational.onlinebank.com
 parknationalbank.caaweb.com
 parknationalbnkuat.caaweb.com
+parkwayfederal-dc.cert.fec-dc.fiservapps.com
 parkwayfederal-dn.financial-net.com
 partnercare.checkfree.com
 partnercare2-saml-btat2.checkfree.com
@@ -19724,6 +19791,7 @@ iherb.gift.solutions
 iherb.wgiftcard.com
 ihop.wgiftcard.com
 ihopstore.wgiftcard.com
+ilafcu-dc.cert.fec-dc.fiservapps.com
 illustracard.fdecs.com
 images-cert.getbills.com
 images.getbills.com
@@ -19840,9 +19908,12 @@ katahdintrust-p2.onlinebank.com
 katahdintrust.onlinebank.com
 kauaiohanafcu-admin.originate.fiservapps.com
 kauaiohanafcu-dc.cert.fec-dc.fiservapps.com
+kauaiohanafcu-dn.financial-net.com
 kauaiohanafcu.originate.fiservapps.com
 kccu-dc.cert.fec-dc.fiservapps.com
+kccu-dn.financial-net.com
 kcsbank-p2.onlinebank.com
+kctfcu-dc.cert.fec-dc.fiservapps.com
 kearneytrust-p2.onlinebank.com
 kearneytrust.architect-cert.fiservapps.com
 kearneytrust.onlinebank.com
@@ -19868,6 +19939,7 @@ kiosk-api.bpm-int.io
 kirkwoodbank-p2.onlinebank.com
 klefcu-admin.originate.fiservapps.com
 klefcu.originate.fiservapps.com
+koolaufcu-dc.cert.fec-dc.fiservapps.com
 kraftcorfcu-dc.cert.fec-dc.fiservapps.com
 krispykreme.gift.solutions
 krispykreme.wgiftcard.com
@@ -19972,6 +20044,8 @@ lionsharecu-admin.originate.fiservapps.com
 lionsharecu.originate.fiservapps.com
 liveoakbank.caaweb.com
 lloydsbankcardnetmerchantportal.fiservapp.com
+lmefcu-dc.cert.fec-dc.fiservapps.com
+lmefcu-dn.financial-net.com
 localfavorite.wgiftcard.com
 locusimpact-p2.onlinebank.com
 loganmedicalfcu-dc.cert.fec-dc.fiservapps.com
@@ -20074,7 +20148,10 @@ mcbbank.originate.fiservapps.com
 mcbt-p2.onlinebank.com
 mcbt.caaweb.com
 mcbtcert.olbanking.com
+mccpcu-dc.cert.fec-dc.fiservapps.com
+mccpcu-dn.financial-net.com
 mcdonalds.wgiftcard.com
+mclcu-dc.cert.fec-dc.fiservapps.com
 mclennancefcu-dc.cert.fec-dc.fiservapps.com
 mclennancountyefcu.com
 mclennancountyefcu.vbwebservices.com
@@ -20118,6 +20195,7 @@ membersonenj.originate.fiservapps.com
 memorialcreditunion-admin.originate.fiservapps.com
 memorialcreditunion-dc.cert.fec-dc.fiservapps.com
 memorialcreditunion.originate.fiservapps.com
+memorialfcu-dc.cert.fec-dc.fiservapps.com
 memorialfcu-dn.financial-net.com
 mercantilbankcommercial.fdecs.com
 mercantilcb.fdecs.com
@@ -20171,6 +20249,7 @@ midstatefcu-dc.cert.fec-dc.fiservapps.com
 midwestbank-p2.onlinebank.com
 midwestbank.onlinebank.com
 midwestlibertyfcu-admin.originate.fiservapps.com
+midwestlibertyfcu-dc.cert.fec-dc.fiservapps.com
 midwestlibertyfcu-dn.financial-net.com
 midwestlibertyfcu.originate.fiservapps.com
 milbnk-p2.onlinebank.com
@@ -20248,6 +20327,7 @@ modirum2.cat2.3ds.firstdata.com
 modirum2.test2.3ds.firstdata.com
 monmouthpostalcu-dc.cert.fec-dc.fiservapps.com
 montanahealthcu-dc.cert.fec-dc.fiservapps.com
+montanahealthcu-dn.financial-net.com
 montecitocert-temp.olbanking.com
 montecitocert.olbanking.com
 montereycountybank-p2.onlinebank.com
@@ -20490,6 +20570,7 @@ nvb-p2.onlinebank.com
 nw-p2.onlinebank.com
 nw.onlinebank.com
 nwbanks-p2.onlinebank.com
+nwccu-dc.cert.fec-dc.fiservapps.com
 nwfcu.caaweb.com
 nwmissouri-dc.cert.fec-dc.fiservapps.com
 nwmrcu-admin.originate.fiservapps.com
@@ -20686,6 +20767,7 @@ partnercare2-saml-cert-faks.checkfree.com
 partnercare2-saml-prod-faks.checkfree.com
 partnercdn.gyft.com
 partnerecs.gyft.com
+pathfinderfcu-dc.cert.fec-dc.fiservapps.com
 patriot-bank-admin.originate.fiservapps.com
 patriot-bank.originate.fiservapps.com
 patriotsbank-p2.onlinebank.com
@@ -23182,6 +23264,7 @@ docs.spark.ai
 docusign-receiver.qual.r2crm.deere.com
 download.kleemann.info
 droneci.deere.com
+drxapi.deere.com
 dtacsolutionviewer-devl.deere.com
 dtfapi.deere.com
 dwedevl.deere.com
@@ -35818,7 +35901,6 @@ assets.hyatt.com
 blueskytours.globalbookingsolutions.com
 book.applevacations.com
 book.beachbound.com
-book.booktandl.com
 book.cheapcaribbean.com
 booking.applevacations.com
 booking.beachbound.com
@@ -36727,14 +36809,6 @@ surfenzonderzorgen.safeonweb.be
 award.cybersecuritycoalition.be
 blog.cybersecuritycoalition.be
 www.cybersecuritycoalition.be
-profiles-api.datacamp.com
-app.datacamp.com
-assessment-api.datacamp.com
-assessment.datacamp.com
-campus.datacamp.com
-practice.datacamp.com
-projects.datacamp.com
-www.datacamp.com
 myaccount.demorgen.be
 www.demorgen.be
 myaccount.volkskrant.nl
@@ -37337,6 +37411,11 @@ myaccount.trouw.nl
 shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
+onboarding-api.truelayer.com
+users-api.truelayer.com
+sftp.reports.truelayer.com
+shopify-admin.truelayer.com
+shop-pay-app-api.truelayer.com
 checkout-playground.zimpler.com
 devdocs.zimpler.com
 identify.zimpler.com
@@ -37397,16 +37476,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-www.veriff.com
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
 aiassistant.stage.vismaonline.com

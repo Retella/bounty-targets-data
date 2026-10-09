@@ -3087,7 +3087,6 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3358,7 +3357,9 @@ aqora.naiad.*
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
+*.truelayer.cloud
 *.truelayer.com
+*.truelayer.io
 *.zimpler.net
 *.sandbox.zimpler.net
 *.staging.zimpler.net
@@ -3379,7 +3380,6 @@ aqora.naiad.*
 *.uphold.com
 *.vtm.be
 *.vtmgo.be
-*.veriff.com
 *.vlerick.com
 *.voi.com
 *.voiscooters.com
