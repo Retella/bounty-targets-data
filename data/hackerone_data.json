@@ -62,7 +62,7 @@
     "name": "Nebius AI Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 88,
     "submission_state": "open",
     "url": "https://hackerone.com/nebius_ai_vdp",
     "website": "https://nebius.com",
@@ -6083,7 +6083,7 @@
     "name": "PhonePe",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/phonepe_vdp",
     "website": "https://www.phonepe.com/",
@@ -13488,7 +13488,7 @@
     "name": "Bose (VDP)",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 89,
     "submission_state": "open",
     "url": "https://hackerone.com/bose_vdp",
     "website": "http://bose.com",
@@ -13608,7 +13608,7 @@
     "name": "MOD Supply Chain VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/mod_supply_chain_vdp",
     "website": "",
@@ -30054,7 +30054,7 @@
     "name": "Whoop Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/whoop_bug_bounty",
     "website": "https://www.whoop.com",
@@ -30262,7 +30262,7 @@
     "name": "HubSpot",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 72,
     "submission_state": "open",
     "url": "https://hackerone.com/hubspot",
     "website": "http://hubspot.com",
@@ -32604,7 +32604,7 @@
     "name": "The Browser Company of NYC",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/bcny",
     "website": "http://thebrowser.company",
@@ -33773,7 +33773,7 @@
     "name": "PepsiCo VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/pepsico_vdp",
     "website": "http://pepsico.com",
@@ -36291,7 +36291,7 @@
     "name": "AWS VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 44,
+    "response_efficiency_percentage": 45,
     "submission_state": "open",
     "url": "https://hackerone.com/aws_vdp",
     "website": "https://aws.amazon.com/",
@@ -51634,7 +51634,7 @@
     "name": "Supabase",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/supabase",
     "website": "https://supabase.com",
@@ -164119,7 +164119,7 @@
     "name": "Palantir Public",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/palantir_public",
     "website": "https://palantir.com",
@@ -173094,7 +173094,7 @@
     "name": "GoDaddy VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 77,
     "submission_state": "open",
     "url": "https://hackerone.com/godaddy-vdp",
     "website": "http://godaddy.com",
@@ -177128,7 +177128,7 @@
     "name": "Capital One Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/capital-one-bounty",
     "website": "http://capitalone.com",
@@ -247492,6 +247492,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://prescottfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://prescottfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -250176,6 +250187,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://rushmoreefcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://rvcfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -250188,6 +250210,17 @@
         },
         {
           "asset_identifier": "http://rvcfcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://rvcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -250979,6 +251012,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://schcofcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://schcofcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://schoolcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -251145,6 +251200,17 @@
         },
         {
           "asset_identifier": "http://sdk-api-stage.gyft.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://seaportfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -254686,6 +254752,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://stripsteelcfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://stripsteelcfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -257392,6 +257469,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://transfigurationfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://transfigurationfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259482,6 +259570,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://utelfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://utelfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -260076,6 +260175,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://visionaryfcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://visionplus.fiservapp.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -260187,6 +260297,17 @@
         },
         {
           "asset_identifier": "http://wakarusavlycu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://warrenmunicipalfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -261298,6 +261419,17 @@
         },
         {
           "asset_identifier": "http://wfsavings.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://wftfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -265830,6 +265962,28 @@
         },
         {
           "asset_identifier": "ingress-aztest.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "inlaneservice-checkfreepay-dev.fiservapis.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "inlaneservice-checkfreepay-uat.fiservapis.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -283121,6 +283275,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "scrantondtfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "scrantondtfcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "sd3fcu-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -283166,6 +283342,28 @@
         },
         {
           "asset_identifier": "securcommunityfcu-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "securcommunityfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "securcommunityfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -283793,6 +283991,17 @@
         },
         {
           "asset_identifier": "shelbycountyfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "shelbycountyfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -286410,6 +286619,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "staroftexascu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "staroftexascu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "staroftexascu.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -287422,6 +287653,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "swbfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "swcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -287500,6 +287742,17 @@
         },
         {
           "asset_identifier": "syfbankcert.tn.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "sylvaniaareafcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -290062,6 +290315,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "tpolcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "tradesandlabor-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -290404,6 +290668,17 @@
         },
         {
           "asset_identifier": "trunorthernfcu-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "trunorthernfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -292593,6 +292868,17 @@
         },
         {
           "asset_identifier": "ul2520xdsig-qa.fiserv.io",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ulfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -295540,6 +295826,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "wfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "wfcu.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -297741,6 +298038,17 @@
         },
         {
           "asset_identifier": "yourmecu.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "yourpfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -445414,7 +445722,7 @@
     "name": "Figma",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/figma",
     "website": "https://figma.com",
@@ -445854,7 +446162,7 @@
     "name": "Amazon Vulnerability Research Program",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 69,
+    "response_efficiency_percentage": 68,
     "submission_state": "open",
     "url": "https://hackerone.com/amazonvrp",
     "website": "https://www.amazon.com",
@@ -459950,7 +460258,7 @@
     "name": "Kubernetes",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 76,
+    "response_efficiency_percentage": 77,
     "submission_state": "open",
     "url": "https://hackerone.com/kubernetes",
     "website": "https://kubernetes.io/",
@@ -469497,7 +469805,7 @@
     "name": "Expedia Group Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 62,
     "submission_state": "open",
     "url": "https://hackerone.com/expediagroup_bbp",
     "website": "https://www.expediagroup.com/",
@@ -478985,7 +479293,7 @@
     "name": "IBM",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/ibm",
     "website": "https://www.ibm.com",
@@ -487079,7 +487387,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://github.com/bitwarden/android",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://github.com/bitwarden/clients",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/ios",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/sdk-internal",
           "asset_type": "SOURCE_CODE",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -487158,6 +487499,61 @@
       ],
       "out_of_scope": [
         {
+          "asset_identifier": "https://github.com/bitwarden/.github",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/agent-access",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/akd-watch",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/autopush-manager",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/bitwarden-russh",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "https://github.com/bitwarden/passwordless-react-example",
           "asset_type": "SOURCE_CODE",
           "availability_requirement": "not_defined",
@@ -487166,6 +487562,28 @@
           "eligible_for_submission": false,
           "instruction": null,
           "integrity_requirement": "not_defined",
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/phishing-test-page",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "https://github.com/bitwarden/rotation-daemon",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
           "max_severity": "none"
         }
       ]
@@ -489128,7 +489546,7 @@
     "name": "Spotify",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/spotify",
     "website": "https://spotify.com",
@@ -492457,82 +492875,6 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": " ",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        }
-      ],
-      "out_of_scope": []
-    }
-  },
-  {
-    "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 111.0,
-    "average_time_to_first_program_response": 10.0,
-    "average_time_to_report_resolved": null,
-    "handle": "brave",
-    "id": 0,
-    "managed_program": false,
-    "name": "Brave Software",
-    "offers_bounties": true,
-    "offers_swag": true,
-    "response_efficiency_percentage": 100,
-    "submission_state": "open",
-    "url": "https://hackerone.com/brave",
-    "website": "https://brave.com",
-    "targets": {
-      "in_scope": [
-        {
-          "asset_identifier": "Brave Browser Desktop",
-          "asset_type": "DOWNLOADABLE_EXECUTABLES",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "Please specify operating system and version of Brave. Only issues in the latest nightly/beta/stable releases are in scope.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "Brave websites",
-          "asset_type": "OTHER",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "This includes but is not limited to Brave Search, Brave Search API dashboard, Brave Creators, Brave Accounts, Brave Talk, and Brave Ads dashboard. Please do not report issues that have no real user impact.",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "com.brave.browser",
-          "asset_type": "GOOGLE_PLAY_APP_ID",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "com.brave.ios.browser",
-          "asset_type": "APPLE_STORE_APP_ID",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "https://github.com/brave/*, https://github.com/brave-intl/*",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "In general we're interested in vulnerabilities in all GitHub repos under brave/ and brave-intl/, barring explicit exclusions. Also exclude forks and archived repos.",
           "integrity_requirement": null,
           "max_severity": "critical"
         }
@@ -502381,7 +502723,7 @@
     "name": "Priceline",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 87,
+    "response_efficiency_percentage": 88,
     "submission_state": "open",
     "url": "https://hackerone.com/priceline",
     "website": "http://www.priceline.com/",
@@ -507016,13 +507358,13 @@
           "max_severity": "none"
         },
         {
-          "asset_identifier": "https://github.com/x402-foundation/",
+          "asset_identifier": "https://github.com/coinbase/x402",
           "asset_type": "SOURCE_CODE",
           "availability_requirement": "none",
           "confidentiality_requirement": "none",
           "eligible_for_bounty": false,
           "eligible_for_submission": false,
-          "instruction": "Out of Scope",
+          "instruction": "Out of Scope.",
           "integrity_requirement": "none",
           "max_severity": "none"
         },
@@ -507425,7 +507767,7 @@
     "name": "Phabricator",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 24,
+    "response_efficiency_percentage": 14,
     "submission_state": "open",
     "url": "https://hackerone.com/phabricator",
     "website": "http://phacility.com/phabricator/",
@@ -507445,7 +507787,7 @@
     "name": "Ruby on Rails",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/rails",
     "website": "http://rubyonrails.org/security",
