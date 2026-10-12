@@ -2053,6 +2053,10 @@
         {
           "target": "api.pub2.infomaniak.cloud",
           "type": "web-application"
+        },
+        {
+          "target": "manager.infomaniak.com/*proxy*",
+          "type": "mobile-application"
         }
       ],
       "out_of_scope": [
@@ -3089,6 +3093,14 @@
         {
           "target": "https://pluralcheckout.pinepg.in",
           "type": "api"
+        },
+        {
+          "target": "https://developers.woohoo.in/",
+          "type": "web-application"
+        },
+        {
+          "target": "https://www.woohoo.in/",
+          "type": "web-application"
         }
       ],
       "out_of_scope": [

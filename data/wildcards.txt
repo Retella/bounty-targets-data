@@ -186,6 +186,8 @@ api-*.soundcloud.com
 *.volkswagen.de
 *.transferwise.com
 *.wise.com
+*.iso.com
+*.verisk.com
 *.checkin.life
 *.innov8.work
 *.leisure-partners.net
@@ -701,6 +703,7 @@ www.lazada.*sixcountry
 *-dev.finnair.com
 *-preprod.finnair.com
 *.finnair.com
+*.ifec-ground.com
 *.gnpd.com
 *.mintel.cloud
 *.mintel.co.uk
@@ -1867,7 +1870,6 @@ test*.redoxengine.com
 *.newegg.ca
 *.newegg.com
 *.airvantage.net
-*.loracloud.com
 *.sierrawireless.com
 *airvantage.net
 *learn.semtech.com
@@ -2830,6 +2832,7 @@ www.paypal-*.com
 *.grammarly.io
 *.grammarlyaws.com
 *.superhuman.com
+*.
 *.atspotify.com
 *.avecspotify.com
 *.byspotify.com
@@ -3112,6 +3115,14 @@ sks-*.exo.io
 www.fing.com*
 *.gulp.ch
 *.gulp.de
+*.data.api.platform.here.com
+*.metrics.platform.here.com
+*.platform.here.com
+*.router.hereapi.com
+*.subp-router.hereapi.com
+*.hereapi.com
+*.scbe.api.here.com
+*.here.com
 *.hln.be
 *.parool.nl
 *.houseofhr.com
