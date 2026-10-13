@@ -11764,6 +11764,7 @@ admit-it.cadbury.co.uk
 admit-it.cadbury.ie
 aida-mdlz.com
 aladdin.marabou.se
+alpengold-promo.me
 alpengold.me
 amikekszunkjatek.hu
 ar.oreobts.com
@@ -11788,7 +11789,6 @@ brumikobjevitel.cz
 bundakraft.com
 ca.oreobts.com
 cadbury-made-to-share.co.za
-cadbury.co.sa
 cadbury.co.uk
 cadbury.co.za
 cadbury.com.au
@@ -11968,7 +11968,6 @@ opavia.info
 oplatky-kolonada.cz
 oreo-bts.oreo.eu
 oreo-challenge.oreo.eu
-oreo-la.com
 oreo-promo.ge
 oreo-starwars.ca
 oreo.co.za
@@ -11981,7 +11980,6 @@ oreo.mx
 oreo.ru
 oreocookie.jp
 oreofun.dk
-oreokitchen.ma
 oreoplayful.ca
 oreoplayful.com
 oreopromo.com
@@ -12105,7 +12103,6 @@ wacam.oreobts.com
 webform.philadelphia.com.mx
 weihnachtswichteln.milka.de
 wichteln.milka.at
-win-tuc.cz
 win.cadbury.co.uk
 win.milka.be
 win.milka.com
@@ -12125,7 +12122,6 @@ www.milka-sakisveiks.lv
 www.oreo.com
 www.oreofun.se
 www.saltinesoffer.com
-www.snack7days.com
 www.snackmindful.com
 www.winwithphilly.fi
 www.winwithphilly.no
@@ -12297,12 +12293,17 @@ zebrasoftware.com
 1edcu-admin.originate.fiservapps.com
 1edcu-dc.cert.fec-dc.fiservapps.com
 1edcu.originate.fiservapps.com
+1firstbank-p2.onlinebank.com
 1fsb-admin.originate.fiservapps.com
+1nbbank-p2.onlinebank.com
 1nbbank.onlinebank.com
 1nbcarlyle-admin.originate.fiservapps.com
 1nbcarlyle.originate.fiservapps.com
 1star.businesstrack.com
+1stbankseaisle-p2.onlinebank.com
 1stcooperative-dc.cert.fec-dc.fiservapps.com
+1stfederalofsc-p2.onlinebank.com
+1stfederalvaldosta-p2.onlinebank.com
 1stgateway-admin.originate.fiservapps.com
 1stgateway.originate.fiservapps.com
 1stnatbk.originate.fiservapps.com
@@ -12410,6 +12411,7 @@ afirme.icm-uat.fiservapps.com
 afirme.icm.fiservapps.com
 agentos-test.fiserv.io
 agfed.architect-cert.fiservapps.com
+aggrtv.fiservapps.com
 aglending.architect-cert.fiservapps.com
 ahefcu-dc.cert.fec-dc.fiservapps.com
 aibmope.firstdata.eu
@@ -12855,6 +12857,7 @@ billpaycert.private.svb.com
 billpayessentials.citizensbankonline.com
 billpayessentials.qacitizensbankonline.com
 billpaytest.bbt.com
+bills.bnymellon.com
 bin.dev.portaldocliente.fiserv.com
 bin.w2case.com
 binnys.gift.solutions
@@ -12963,6 +12966,7 @@ bucks.bypassmobile.com
 buffalowildwings.gift.solutions
 buffalowildwings.wgiftcard.com
 buffalowildwingsstore.wgiftcard.com
+builder-pod1-beta.fiservapps.com
 burgerking.gift.solutions
 burgerking.wgiftcard.com
 business-direct.gyft.com
@@ -13062,6 +13066,7 @@ carverstatebank-admin.originate.fiservapps.com
 carverstatebank.onlinebank.com
 carverstatebank.originate.fiservapps.com
 carzspa.staging.cloveronline.com
+cashedgeapitesting.ft.fiservapps.com
 cashmanagement.bofifederalbank.com
 cashtechiq-corpoint.fiservapps.com
 cat-alertcrtl-ext.fiservapps.com
@@ -13230,6 +13235,7 @@ cert.pspa.solspark.com
 cert.pspt.solspark.com
 cert.registration.checkfreepay.com
 cert.totalpay.everywherepaycard.com
+certcc.ft1.cashedge.com
 certification-pay.digitalpaymentnetwork.com
 cfa.wgiftcard.com
 cfc-cert.fiservapps.com
@@ -13246,6 +13252,7 @@ cfnbmanhattan-p2.onlinebank.com
 cfnbmanhattan.onlinebank.com
 cfsfcu-admin.originate.fiservapps.com
 cfsfcu.originate.fiservapps.com
+cfsfiserv.com
 ch-cat2.fiservapps.com
 ch-cengg-dev-mobileapp1.fiservapps.com
 ch-cengg-dev-mobileapp2.fiservapps.com
@@ -13390,6 +13397,7 @@ coafcu.configure-digital.cert.fiservapps.com
 coafcu.onlinebank.com
 coast360fcu.onlinebank.com
 coastal1.caaweb.com
+coastal1.ld.fiservapps.com
 coastal1.uat-ld.fiservapps.com
 coastal1cuuat.caaweb.com
 coconinofcu-admin.originate.fiservapps.com
@@ -13488,7 +13496,11 @@ coop-mcs-cengg-dev.fiservapps.com
 coopaee-dc.cert.fec-dc.fiservapps.com
 coopaee-dn.financial-net.com
 cooperscavefcu-dc.cert.fec-dc.fiservapps.com
+cooporiental-c2.configure-digital-cert.fiservapps.com
 cooporiental-dc.cert.fec-dc.fiservapps.com
+cooporiental-p2.onlinebank.com
+cooporiental.ld.fiservapps.com
+cooporiental.uat-ld.fiservapps.com
 copilot.cardpointe.com
 corilliancert.fiserv.io
 corilliancert2.fiserv.io
@@ -13499,12 +13511,14 @@ corillianprod2.fiserv.io
 corilliantest.fiserv.io
 corilliantest2.fiserv.io
 corncitystatebank-admin.originate.fiservapps.com
+corncitystatebank-p2.onlinebank.com
 corncitystatebank.originate.fiservapps.com
 cornerstonebankia-p2.onlinebank.com
 cornerstonebanks-p2.onlinebank.com
 cornerstonebanks.onlinebank.com
 cornerstonebankva.onlinebank.com
 cornerstonebk.onlinebank.com
+cornerstoneconnect-p2.onlinebank.com
 cornerstonecu-dc.cert.fec-dc.fiservapps.com
 cornhuskerbank-p2.onlinebank.com
 corpoint.fiservapps.com
@@ -13519,12 +13533,14 @@ costcoshopcard.com
 cottonbeltfcu-dc.cert.fec-dc.fiservapps.com
 cottonbeltfcu-dn.financial-net.com
 councillfcu-dc.cert.fec-dc.fiservapps.com
+cp.alldata.fiservapps.com
 cpwrfcu-admin.originate.fiservapps.com
 cpwrfcu.originate.fiservapps.com
 crackerbarrel.wgiftcard.com
 crackerbarrelstore.wgiftcard.com
 cranberryfcu-dc.cert.fec-dc.fiservapps.com
 cranberryfcu-dn.financial-net.com
+crb-p2.onlinebank.com
 crcfcu-dc.cert.fec-dc.fiservapps.com
 creditchoice-apps-qa.creditcardservices.com
 creditchoice-apps-stage.creditcardservices.com
@@ -13541,12 +13557,15 @@ crestfoods.gift.solutions
 crestfoods.wgiftcard.com
 cs.icm-uat.fiservapps.com
 cs.icm.fiservapps.com
+csb-p2.onlinebank.com
+csb.onlinebank.com
 csbankcadott-admin.originate.fiservapps.com
 csbankcadott-p2.onlinebank.com
 csbankcadott.onlinebank.com
 csbankcadott.originate.fiservapps.com
 csbbankonline-p2.onlinebank.com
 csbbankonline.onlinebank.com
+csbcanton-p2.onlinebank.com
 cscfederal-dc.cert.fec-dc.fiservapps.com
 cscutx-dc.cert.fec-dc.fiservapps.com
 csdcu-dc.cert.fec-dc.fiservapps.com
@@ -13682,6 +13701,7 @@ dev-implementationhub.carat.fiserv.com
 dev-miam.businesstrack.com
 dev-proxy.businesstrack.com
 dev-proxy.commercecontrol.com
+dev-sales.businesstrack.com
 dev-sales.fiserv.com
 dev-self-serve-ui.catalyst.clover.com
 dev-test-studio.marketplace.fiserv.com
@@ -13709,6 +13729,7 @@ diamondvalley.uat-ld.fiservapps.com
 diamondvalleyfcu-xp2-admin.originate.fiservapps.com
 diamondvalleyfcu-xp2.originate.fiservapps.com
 dierbergs.wgiftcard.com
+digitalbillpay-cert.firstcitizens.com
 digitalbillpay.firstcitizens.com
 dime.architect-cert.fiservapps.com
 dime.olbanking.com
@@ -13806,6 +13827,7 @@ dovetail-wab-btat2.fiservapps.com
 dovetail-wab-cert.fiservapps.com
 dovetail-wab.fiservapps.com
 dovetail-west.fiservapps.com
+download-cert.fiservapps.com
 download.fiservapps.com
 dr-libra-prod.fiservapps.com
 dr-resources.fiservclients.com
@@ -13848,6 +13870,7 @@ ebankstar.onlinebank.com
 ebankstar.originate.fiservapps.com
 ebas-dev.fiservapis.com
 ebas-uat.fiservapis.com
+ebillapi-dev.fiservapis.com
 ebillapi.fiservapps.com
 ebranch.nhfcu.org
 ebscbank-p2.onlinebank.com
@@ -13952,8 +13975,10 @@ esluat.caaweb.com
 ess.firstdataeservices.com
 essential-13may25-colorado-springs.staging.cloveronline.com
 essentialraja1.staging.cloveronline.com
+essentials-ecm-cert.fiservapis.com
 essentials-ecm-dev.fiservapis.com
 essentials-ecm-uat.fiservapis.com
+essentials-ecm.fiservapis.com
 eu-fimu-x-euw1.ns1.fiservapis.com
 eu-fimu-x-euw3.ns1.fiservapis.com
 eu-ssoca.fiservapp.com
@@ -13974,6 +13999,7 @@ ewcu-dc.cert.fec-dc.fiservapps.com
 exchangestatebank-admin.originate.fiservapps.com
 exchangestatebank.originate.fiservapps.com
 expresspos-cat.firstdata.com
+expresspos-test.firstdata.com
 expresspos.fiservapp.com
 extranet-dna-cert.fiservapps.com
 extranet-dna.fiservapps.com
@@ -14033,10 +14059,16 @@ fcma-train-cert.fiserv.io
 fcnb-p2.onlinebank.com
 fcrm-cert.fiservapps.com
 fcrm-ct1-cert.fiservapps.com
+fcrm-ct1.fiservapps.com
 fcrm-ct2-cert.fiservapps.com
+fcrm-ct2.fiservapps.com
 fcrm-ct3-cert.fiservapps.com
 fcrm-ct3.fiservapps.com
+fcrm-ct4-cert.fiservapps.com
+fcrm-ct4.fiservapps.com
 fcrm-ct5-cert.fiservapps.com
+fcrm-ct5.fiservapps.com
+fcrm-ct6-cert.fiservapps.com
 fcrm-ct6.fiservapps.com
 fcrm-ct7-cert.fiservapps.com
 fcrm-ct7.fiservapps.com
@@ -14044,12 +14076,20 @@ fcrm-dev.fiservapps.com
 fcrm-md1-cert.fiservapps.com
 fcrm-pm1-cert.fiservapps.com
 fcrm-pm1.fiservapps.com
+fcrm-pm2-cert.fiservapps.com
 fcrm-pm3-cert.fiservapps.com
+fcrm-pm3.fiservapps.com
+fcrm-pm4-cert.fiservapps.com
+fcrm-pm4.fiservapps.com
 fcrm-py1-cert.fiservapps.com
 fcrm-py1.fiservapps.com
+fcrm-py2-cert.fiservapps.com
 fcrm-py2.fiservapps.com
 fcrm-py3.fiservapps.com
+fcrm-py4.fiservapps.com
 fcrm-py5-cert.fiservapps.com
+fcrm-py5.fiservapps.com
+fcrm-sg1-cert.fiservapps.com
 fcrm-sg1.fiservapps.com
 fcrm-sg2-cert.fiservapps.com
 fcrm-sg2.fiservapps.com
@@ -14111,6 +14151,10 @@ fieldstonecu-admin.originate.fiservapps.com
 fieldstonecu.originate.fiservapps.com
 fifththird.icm-uat.fiservapps.com
 fifththird.icm.fiservapps.com
+fileexchange-cert.fiservapis.com
+fileexchange-dev.fiservapis.com
+fileexchange-uat.fiservapis.com
+fileexchange.fiservapis.com
 files-web.fiservatlanta.net
 files.cfc-test.fiservapps.com
 files.clover.com
@@ -14432,6 +14476,8 @@ fsnb.icm-uat.fiservapps.com
 fsnb.icm.fiservapps.com
 fsrvunifiedlogin.fiserv.io
 fswdepot.net
+fswitch-cat.fiservapp.com
+fswitch.fiservapp.com
 ftexpress.tdbank.com
 ftk1.api.fiservapps.com
 ftk2.api.fiservapps.com
@@ -14446,9 +14492,11 @@ ftsbia-p2.onlinebank.com
 ftsbia.configure-cert.fiservapps.com
 ftsbia.configure-digital-cert.fiservapps.com
 fullservicecredit-js-cert.fiservapis.com
+fullservicecredit-js-qa.fiservapis.com
 fullservicecredit-js-test.fiservapis.com
 fullservicecredit-js.fiservapis.com
 fullservicecredit-ws-cert.fiservapis.com
+fullservicecredit-ws-qa.fiservapis.com
 fullservicecredit-ws-test.fiservapis.com
 fwccu-admin.originate.fiservapps.com
 fwccu-dc.cert.fec-dc.fiservapps.com
@@ -14524,6 +14572,7 @@ graetersstore.wgiftcard.com
 grand-admin.originate.fiservapps.com
 grand.originate.fiservapps.com
 grandbank-uat.streamlendvelocity.net
+grandbank.streamlendvelocity.net
 grandriverbank.onlinebank.com
 grandtimberbank-p2.onlinebank.com
 grandys.wgiftcard.com
@@ -15096,6 +15145,7 @@ bcfcu.originate.fiservapps.com
 bcpdqbc.firstdataclients.com
 bcpdqen.firstdataclients.com
 bcprod-ipr.fiservsco.com
+bctest-ipr.fiservsco.com
 beachmunicipal-admin.originate.fiservapps.com
 beachmunicipal-dn.financial-net.com
 beachmunicipal.originate.fiservapps.com
@@ -15149,6 +15199,7 @@ billerwebui.clienttestmatrix.com
 billpay-bit.bankofamerica.com
 billpay-cert.checkfreeweb.com
 billpay-pilot.checkfreeweb.com
+billpay-test.amerantbank.com
 billpay-test.arvest.com
 billpay-ui.bankofamerica.com
 billpay.1stbankofcolorado.com
@@ -15161,6 +15212,7 @@ billpay.bankunitedbusinessonlinebanking.com
 billpay.checkfreeweb.com
 billpay.commercebank.com
 billpay.deltacommunitycu.com
+billpay.dev.fnb-onlinebankingcenter.com
 billpay.efirstbank.com
 billpay.etrade.net
 billpay.flagstar.com
@@ -15206,6 +15258,7 @@ billpayprod.mybankingdirect.com
 billpayprod.tcbk.com
 billpayprod2.northwest.com
 billpayqa.bankunitedbusinessonlinebanking.com
+billpaytest.deltacommunitycu.com
 billpaytest.mybankingdirect.com
 billpaytest.rbcbank.com
 billpaytest.unfcu.org
@@ -15238,6 +15291,7 @@ boarding.opayo.elavon.co.uk
 bocokonline-admin.originate.fiservapps.com
 bocokonline.originate.fiservapps.com
 bofa-icm-uat0.fiservapps.com
+boh-uat.streamlendvelocity.net
 boh.streamlendvelocity.net
 bolt.cardpointe.com
 bossierfcu-admin.originate.fiservapps.com
@@ -15286,6 +15340,7 @@ brotherhood-uat.streamlendvelocity.net
 brotherhood.streamlendvelocity.net
 bruningbank-admin.originate.fiservapps.com
 bruningbank.originate.fiservapps.com
+bsb-uat.streamlendvelocity.net
 bsb.streamlendvelocity.net
 bsc-billerpayapi.fiservapps.com
 btat.ea.financial-net.com
@@ -16065,8 +16120,10 @@ dalecu-dc.cert.fec-dc.fiservapps.com
 dalecu-dn.financial-net.com
 danversmfcu-dc.cert.fec-dc.fiservapps.com
 danversmfcu-dn.financial-net.com
+datasafe-lower.fiservapps.com
 db-telecash.terminal.cc
 db.telecash.shop
+ddf-case-p.fiservapps.com
 ddf-southcarolina-p.fiservapps.com
 decaturcountybank-admin.originate.fiservapps.com
 decaturcountybank.originate.fiservapps.com
@@ -16781,6 +16838,7 @@ gsocu.org
 gsocu.vbwebservices.com
 gtcfcu-dn.financial-net.com
 gulfcapitalbank.caaweb.com
+gwcelweb.softwareexpress.com.br
 gwecu-dc.cert.fec-dc.fiservapps.com
 gwecu-dn.financial-net.com
 gyft.com
@@ -17017,6 +17075,7 @@ iowatrust.architect-cert.fiservapps.com
 iowatrust.onlinebank.com
 iowatrustbank-admin.originate.fiservapps.com
 iowatrustbank.originate.fiservapps.com
+ipabcprod.fiservsco.com
 ipabctest.fiservsco.com
 ipcws.fiservapps.com
 ipg-online.com
@@ -17511,6 +17570,7 @@ mwrdecu-dc.cert.fec-dc.fiservapps.com
 mwrdecu-dn.financial-net.com
 mwrdecu.originate.fiservapps.com
 my-curewards.com
+my-intg.billpay.navyfederal.org
 my.fourseasonsfcu.com
 my.telecash.de
 myaccess.tscbank.com
@@ -18158,6 +18218,7 @@ peoplesstatebank.onlinebank.com
 peoriapostal-dc.cert.fec-dc.fiservapps.com
 peoriapostal-dn.financial-net.com
 pepcofcu-dn.financial-net.com
+perf-api.marketplace.fiserv.com
 perf-developer-portal.fiserv.com
 personalpay.onlinepayments.regions.com
 personalpay.onlinepayments.regionstest.com
@@ -18318,6 +18379,7 @@ prioritycu.originate.fiservapps.com
 probmxsubscriberapi.clienttestmatrix.com
 proctorfcu-admin.originate.fiservapps.com
 proctorfcu.originate.fiservapps.com
+prod-api.marketplace.fiserv.com
 prod-diligence.businesstrack.com
 prod-guardian.businesstrack.com
 prod.apac.api.fiservapps.com
@@ -18356,6 +18418,7 @@ pspportal.firstdata.com
 pstcfcu-dn.financial-net.com
 qa-api-rest.catalyst.clover.com
 qa-api.marketplace.fiserv.com
+qa-billpay.goldman.com
 qa-depositreturns.fiservsco.com
 qa-developer.fiserv.com
 qa-developerstudio.fiserv.com
@@ -18473,6 +18536,7 @@ reliantbank.originate.fiservapps.com
 remingtonfcu-dn.financial-net.com
 reports-uat.cte.client-central.com
 reports.client-central.com
+reports2.digecenter.com
 republic.architect-cert.fiservapps.com
 republic.onlinebank.com
 republicbank.caaweb.com
@@ -18776,6 +18840,7 @@ sit-r1.client-central.com
 sitef.softwareexpress.com.br
 sitef1.softwareexpress.com.br
 sitef2.softwareexpress.com.br
+sitefconciliacao.softwareexpress.com.br
 sitefexpress-mx.softwareexpress.com
 sitefexpress.softwareexpress.com.br
 sitefexpress1.softwareexpress.com.br
@@ -18883,6 +18948,7 @@ ssbwyo.originate.fiservapps.com
 ssefcu-dc.cert.fec-dc.fiservapps.com
 ssefcu-dn.financial-net.com
 ssfcu-dc.cert.fec-dc.fiservapps.com
+sso-3.fiservsco.com
 sso-fi.bankofamerica.com
 sso-sco2.fiservsco.com
 sso.agg.cashedge.com
@@ -18902,6 +18968,7 @@ ssp.navient.com
 stage-api-rest.catalyst.clover.com
 stage-api.marketplace.fiserv.com
 stage-consumer.cardservices.bank
+stage-developer-portal.fiserv.com
 stage-developer.firstdata.com
 stage-developer.fiserv.com
 stage-developerstudio.fiserv.com
@@ -19624,6 +19691,7 @@ wrenthamcoop-admin.originate.fiservapps.com
 wrenthamcoop.onlinebank.com
 wrenthamcoop.originate.fiservapps.com
 ws.firstdataclients.com
+wsconsultatrn.softwareexpress.com.br
 wsconsultatrnla.softwareexpress.com
 wsfcu-uat.streamlendvelocity.net
 wsfcu.streamlendvelocity.net
@@ -19664,6 +19732,7 @@ www5.thepayplace.com
 xbpg-uat.hepsiian.com
 xcelfcu-admin.originate.fiservapps.com
 xcelfcu.originate.fiservapps.com
+xml.alldata.cashedge.com
 xml.di.ft.cashedge.com
 xml.ft.cashedge.com
 xrservice-fileexchange.fiservapps.com
@@ -19946,6 +20015,8 @@ ibankeaston.originate.fiservapps.com
 ibc-mcs-cengg-dev.fiservapps.com
 ibiz.broadway.bank
 ibyourbank-p2.onlinebank.com
+ic-sp-dev.fiservapis.com
+ic-sp.fiservapis.com
 icm-bbtts.fiservapps.com
 icm-uat.fiservapps.com
 icm.fiservapps.com
@@ -20036,6 +20107,8 @@ itemprocessing-cit-oasis02.fiservapps.com
 itemprocessing-cit-oasis03.fiservapps.com
 itemprocessing-cit-sand.fiservapps.com
 itemprocessing-oasis.fiservapps.com
+itemprocessing-oasis02.fiservapps.com
+itemprocessing-oasis03.fiservapps.com
 itemprocessing-sand.fiservapps.com
 ivanhoe.wgiftcard.com
 ivcu-dc.cert.fec-dc.fiservapps.com
@@ -20205,6 +20278,8 @@ libertynational-p2.onlinebank.com
 libertynational.architect-cert.fiservapps.com
 libertynational.onlinebank.com
 libertynational.originate.fiservapps.com
+licenciamento-sitef-setup.softwareexpress.com.br
+licenciamento-sitef.softwareexpress.com.br
 licensing-api.bpm-int.io
 licensing-integration.bypassmobile.com
 licensing.bpm-int.io
@@ -20223,8 +20298,13 @@ lmefcu-dn.financial-net.com
 localfavorite.wgiftcard.com
 locusimpact-p2.onlinebank.com
 loganmedicalfcu-dc.cert.fec-dc.fiservapps.com
+login-portal-ag.fiservapps.com
+login-portal-btat2.fiservapps.com
+login-portal-cert.fiservapps.com
 login-portal-east-btat2.fiservapps.com
 login-portal-east-cert.fiservapps.com
+login-portal-east.fiservapps.com
+login-portal-west.fiservapps.com
 lokahifcu.onlinebank.com
 lol-uat.fiservapp.com
 lol.fiservapp.com
@@ -20524,6 +20604,8 @@ moveitdmz.arl-tsg.com
 mpi-homolog.softwareexpress.com.br
 mpi.safekey.amex.apac.3ds.firstdata.com
 mpi.safekey.amex.lac.3ds.firstdata.com
+ms-brasil-cat.fiservapp.com
+ms-brasil.fiservapp.com
 ms-mercadopago-cat.fiservapp.com
 ms-mercadopago.fiservapp.com
 msa.businesstrack.com
@@ -20627,6 +20709,7 @@ na-ssoca.fiservapps.com
 na.fimu.me
 naefcu-admin.originate.fiservapps.com
 naefcu.originate.fiservapps.com
+naheola-uat.streamlendvelocity.net
 naheola.streamlendvelocity.net
 napoleonstatebank-admin.originate.fiservapps.com
 napoleonstatebank-p2.onlinebank.com
@@ -20732,6 +20815,8 @@ northxml-dev.fiservapis.com
 northxml-qa.fiservapis.com
 northxml.fiservapis.com
 notifi-rest-cert.fiservapps.com
+notifi-rest-dev.fiservapis.com
+notifi-rest-uat.fiservapis.com
 notifi-rest-uat.fiservapps.com
 notifi-rest.fiservapps.com
 novafcu-admin.originate.fiservapps.com
@@ -20893,6 +20978,8 @@ oteenvafcu-dc.cert.fec-dc.fiservapps.com
 otp.catalyst.clover.com
 outback.wgiftcard.com
 outbackstore.wgiftcard.com
+p2p-citizens.api.fiservapps.com
+p2p-regions.api.fiservapps.com
 p3-cert.captcha-billpay.com
 p5.captcha-billpay.com
 paccon.fdecs.com
@@ -21064,6 +21151,7 @@ pix-webhook-cresol.softwareexpress.com.br
 pix-webhook-numbrs.softwareexpress.com.br
 pix-webhook-picpay.softwareexpress.com.br
 pix-webhook-tribanco.softwareexpress.com.br
+pix-webhook.softwareexpress.com.br
 pix.fiservapp.com
 pizzahut.gift.solutions
 pizzahut.wgiftcard.com
@@ -21537,6 +21625,8 @@ sasshoes.wgiftcard.com
 sasshoesstore.wgiftcard.com
 saucepizzaandwine.wgiftcard.com
 sb.firstdata.com
+sbizbillpay-test.tcbnw.com
+sbizbillpay.tcbnw.com
 sbofgray-p2.onlinebank.com
 sbtcajun.onlinebank.com
 scb.onlinebank.com
@@ -21798,6 +21888,8 @@ sprouts.gift.solutions
 sprouts.wgiftcard.com
 sproutsstore.wgiftcard.com
 square1bank.fdecs.com
+sr-api-dev.fiservapis.com
+sr-api-qa.fiservapis.com
 sr-docusign-integration-dit1.fiservapps.com
 sr-docusign-integration-dit3.fiservapps.com
 sr-docusign-integration.fiservapps.com
@@ -21808,6 +21900,9 @@ ssbwarroad-p2.onlinebank.com
 ssbwyo-p2.onlinebank.com
 ssbwyo.onlinebank.com
 ssbwyoo-p2.onlinebank.com
+sso-p2p-bmo.fiservapps.com
+sso-p2p-citizens.fiservapps.com
+sso-p2p-regions.fiservapps.com
 sso-p2p-td.fiservapps.com
 sso.corp.clover.com
 sso.firstdata.com
@@ -22755,6 +22850,10 @@ ws-card-test2-api.fiservapis.com
 ws-card-test3-api.fiservapis.com
 ws-card-uat-api.fiservapis.com
 ws-card-uat-sandbox-api.fiservapis.com
+ws-cfc-dev.fiservapis.com
+ws-cfc-qa.fiservapis.com
+ws-cfc-test.fiservapis.com
+ws-cfc-uat.fiservapis.com
 ws-connect-dev.fiservapis.com
 ws-connect-dev.ns1.fiservapis.com
 ws-connect-ma-cert-usc1.ns1.fiservapis.com
@@ -22779,16 +22878,37 @@ ws-connect-v-cert.fiservapis.com
 ws-connect-v-usc1.ns1.fiservapis.com
 ws-connect-v-use4.ns1.fiservapis.com
 ws-connect-v.fiservapis.com
+ws-csdmavoice-qa.fiservapis.com
+ws-csdmavoice-uat.fiservapis.com
+ws-cstapi-cert.fiservapis.com
+ws-cstapi-dev.fiservapis.com
+ws-cstapi-uat.fiservapis.com
+ws-cstapi.fiservapis.com
+ws-enfactccs-cert.fiservapis.com
+ws-enfactccs-cte.fiservapis.com
+ws-enfactccs-dev.fiservapis.com
+ws-enfactccs-dev3.fiservapis.com
+ws-enfactccs-uat.fiservapis.com
+ws-enfactccs.fiservapis.com
 ws-epp-cert.fiservapis.com
 ws-epp-dev.fiservapis.com
 ws-epp-uat.fiservapis.com
 ws-epp.fiservapis.com
+ws-feds-output-cert.fiservapis.com
 ws-feds-output-dev.fiservapis.com
 ws-fhs-cert.fiservapis.com
 ws-los-cert.fiservapis.com
 ws-los-dev.fiservapis.com
 ws-los-uat.fiservapis.com
 ws-los.fiservapis.com
+ws-optisrg-cte.fiservapis.com
+ws-optisrg-dev.fiservapis.com
+ws-optisrg-dev3.fiservapis.com
+ws-optisrg-test1.fiservapis.com
+ws-optisrg-test2.fiservapis.com
+ws-optisrg-test3.fiservapis.com
+ws-optisrg-uat.fiservapis.com
+ws-optisrg.fiservapis.com
 ws-otp-ne-cert.fiservapis.com
 ws-otp-ne-qa.fiservapis.com
 ws-sapi-cert.fiservapis.com
@@ -22806,6 +22926,10 @@ ws-smallbiz.fiservapis.com
 ws-tsp-cert.fiservapis.com
 ws-tsp-qa.fiservapis.com
 ws-tsp.fiservapis.com
+ws-vapi-cert.fiservapis.com
+ws-vapi-test.fiservapis.com
+ws-vapi-uat.fiservapis.com
+ws-vapi.fiservapis.com
 ws2.solspark.com
 wsfcu-c2.configure-digital-cert.fiservapps.com
 wsfcu-p2.onlinebank.com
