@@ -458,7 +458,7 @@
     "name": "CoinDCX Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 99,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/coindcx_vdp",
     "website": "http://coindcx.com",
@@ -6443,7 +6443,7 @@
     "name": "Discover VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/discover-vdp",
     "website": "http://www.discover.com",
@@ -13511,7 +13511,7 @@
     "name": "Bose (VDP)",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/bose_vdp",
     "website": "http://bose.com",
@@ -13631,7 +13631,7 @@
     "name": "MOD Supply Chain VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/mod_supply_chain_vdp",
     "website": "",
@@ -16357,7 +16357,7 @@
     "name": "Twilio",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/twilio",
     "website": "https://www.twilio.com/",
@@ -16397,6 +16397,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "accounts.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "api.authy.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "api.segment.io",
           "asset_type": "API",
           "availability_requirement": null,
@@ -16408,6 +16430,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "api.segmentapis.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "api.sendgrid.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "api.sendgrid.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -16415,6 +16459,17 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "api.stytch.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -16452,6 +16507,402 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "assistants.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "blog.twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "bulkexports.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "client.dev",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "com.authy",
+          "asset_type": "APPLE_STORE_APP_ID",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "com.authy.authy",
+          "asset_type": "GOOGLE_PLAY_APP_ID",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "connectedapps.dev",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "console.twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "content.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "conversations.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "events.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "flex-api.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "frontline-api.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/segmentio",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/sendgrid",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/is-agent",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/samlshield",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-android",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-browser",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-dotnet",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-go",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-ios",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-ios-dfp",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-java",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-management-go",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-management-python",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-mobile",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-node",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-php",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-python",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-ruby",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/stytch-rust",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/terraform-provider-stytch",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/twilio",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "github.com/twilio-labs",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "help.twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://help.twilio.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -16485,6 +16936,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://github.com/stytchauth",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://segment.com/docs/connections/sources/",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -16492,6 +16954,28 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "##Source code of Website, Mobile, or Server Libraries\n###Access & Testing (Segment)\nLimit your use of scanner tests based on our technology stack. Our application is primarily powered by Node.js, React, and GraphQL.\nTo test Segment you'll need to create a variety of data sources/destinations. We would recommend using those that have a bug bounty program such as Intercom, Twilio, Facebook, or Google. Services like Heroku can be valuable for creating resources such as Postgres instances to test our warehouse's products.\n\n###Libraries (Segment)\nSegment provides libraries written in various languages to our customers https://segment.com/docs/connections/sources/. We invite you to review the source code of our Website, Mobile, and Server Libraries, all of which are hosted on Github. Qualifying submissions must have a demonstrable impact and realistic attack vector. Submissions that include a proposed fix will be easier for us to evaluate and reward.\n\n",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://stytch.com/blog",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://stytch.com/dashboard",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -16573,6 +17057,94 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "iam.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "insights.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "intelligence.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "isagent.dev",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "knowledge.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "lookups.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "management.stytch.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "marketplace.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "mc.sendgrid.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -16584,6 +17156,138 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "memory.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "messaging.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "monitor.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "notify.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "numbers.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "oauth.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "platform.segmentapis.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "preview.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "pricing.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "profile.segment.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "proxy.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "routes.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "sendgrid.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -16591,6 +17295,17 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "serverless.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -16617,6 +17332,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "smtp.sendgrid.net",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "static*.twilio.com",
           "asset_type": "WILDCARD",
           "availability_requirement": null,
@@ -16626,11 +17352,110 @@
           "instruction": "Twilio CDNs",
           "integrity_requirement": null,
           "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "studio.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "sync.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "taskrouter.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "telemetry.stytch.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "test.stytch.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "trunking.twilio.com",
+          "asset_type": "API",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "tsock.us1.twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
         }
       ],
       "out_of_scope": [
         {
           "asset_identifier": "All Kurento domains",
+          "asset_type": "OTHER",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "All Twilio acquisitions unless explicitly listed as in-scope",
           "asset_type": "OTHER",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -16718,8 +17543,63 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "apjevents.twilio.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "cdpweek.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "chatagotchi.app",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "click.sendgrid.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "community.segment.com",
           "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "github.com/stytchauth/sqx",
+          "asset_type": "SOURCE_CODE",
           "availability_requirement": null,
           "confidentiality_requirement": null,
           "eligible_for_bounty": false,
@@ -16806,7 +17686,40 @@
           "max_severity": "none"
         },
         {
+          "asset_identifier": "js.stytch.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
           "asset_identifier": "lab.authy.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "partners.segment.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "portal.partnerships.twilio.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -16840,6 +17753,17 @@
         },
         {
           "asset_identifier": "status.sendgrid.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "status.stytch.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -16939,6 +17863,17 @@
         },
         {
           "asset_identifier": "twiliotraining.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": false,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "none"
+        },
+        {
+          "asset_identifier": "web.stytch.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -23420,7 +24355,7 @@
     "name": "Kaseya",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 82,
     "submission_state": "open",
     "url": "https://hackerone.com/kaseya",
     "website": "http://kaseya.com",
@@ -23860,7 +24795,7 @@
     "name": "Lovable VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/lovable-vdp",
     "website": "http://lovable.dev",
@@ -23991,7 +24926,7 @@
     "name": "Kong",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/kong",
     "website": "http://konghq.com",
@@ -25976,7 +26911,7 @@
     "name": "Ferrero",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 76,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/ferrero",
     "website": "https://www.ferrero.com",
@@ -29913,7 +30848,7 @@
     "name": "Dust",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 0,
+    "response_efficiency_percentage": 11,
     "submission_state": "open",
     "url": "https://hackerone.com/dust",
     "website": "http://dust.tt",
@@ -30077,7 +31012,7 @@
     "name": "Whoop Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/whoop_bug_bounty",
     "website": "https://www.whoop.com",
@@ -33119,7 +34054,7 @@
     "name": "Bumba",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 93,
+    "response_efficiency_percentage": 94,
     "submission_state": "open",
     "url": "https://hackerone.com/bumba_bbp",
     "website": "http://bumba.global",
@@ -36314,7 +37249,7 @@
     "name": "AWS VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 44,
+    "response_efficiency_percentage": 45,
     "submission_state": "open",
     "url": "https://hackerone.com/aws_vdp",
     "website": "https://aws.amazon.com/",
@@ -47831,7 +48766,7 @@
     "name": "HPE VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/hpe_vdp",
     "website": "http://hpe.com",
@@ -69572,7 +70507,7 @@
     "name": "Walt.io",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 97,
+    "response_efficiency_percentage": 98,
     "submission_state": "open",
     "url": "https://hackerone.com/walt_io",
     "website": "https://walt.io/",
@@ -74275,7 +75210,7 @@
     "name": "Aeromexico VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 60,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/aeromexico_vdp",
     "website": "http://www.aeromexico.com/",
@@ -74999,7 +75934,7 @@
     "name": "Trip.com",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/trip_com",
     "website": "http://trip.com",
@@ -105022,7 +105957,7 @@
     "name": "Yuga Labs",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 66,
     "submission_state": "open",
     "url": "https://hackerone.com/yuga_labs",
     "website": "http://www.yuga.com",
@@ -105288,6 +106223,17 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": "We are most interested in any CSRF in third-party integrations.",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "Notion MCP",
+          "asset_type": "OTHER",
+          "availability_requirement": "medium",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": "high",
           "max_severity": "critical"
         },
@@ -167501,7 +168447,7 @@
     "name": "Hilton",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 82,
+    "response_efficiency_percentage": 81,
     "submission_state": "open",
     "url": "https://hackerone.com/hilton",
     "website": "http://hilton.com",
@@ -172998,7 +173944,7 @@
     "name": "Veeam",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/veeam",
     "website": "http://www.veeam.com",
@@ -178589,7 +179535,7 @@
     "name": "Tenable",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 82,
     "submission_state": "open",
     "url": "https://hackerone.com/tenable",
     "website": "http://www.tenable.com",
@@ -179796,7 +180742,7 @@
     "name": "Zurich Insurance",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/zurich-insurance",
     "website": "http://zurich.com",
@@ -183694,17 +184640,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "abc-uat.prinpay.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "abcofcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -183915,17 +184850,6 @@
         },
         {
           "asset_identifier": "accounts-aux.cardconnect.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "accounts-uat-aux.cardconnect.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -193825,17 +194749,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "cert-api-fiservapps-x-saw1.ns1.fiservapis.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "cert-caedd.moneynetwork.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -194739,6 +195652,17 @@
         },
         {
           "asset_identifier": "cfgcert2.olbanking.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "cflacu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -199952,6 +200876,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "dev-ccc.businesstrack.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "dev-cert-caedd.moneynetwork.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -202009,6 +202944,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ecsefcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ecucreditunion-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -203571,6 +204517,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "famousdaves.wgiftcard.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "fanatics.wgiftcard.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -203616,6 +204573,17 @@
         },
         {
           "asset_identifier": "fandangostore.wgiftcard.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "fareway.gift.solutions",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -204198,6 +205166,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "fcrm-pm2.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "fcrm-pm3-cert.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -204286,7 +205265,29 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "fcrm-py3-cert.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "fcrm-py3.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "fcrm-py4-cert.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -204408,6 +205409,17 @@
         },
         {
           "asset_identifier": "fcrm-sg4.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "fcrm.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -208851,6 +209863,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "fwccu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "fwccu.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -210205,6 +211228,17 @@
         },
         {
           "asset_identifier": "hamiltonhorizons-admin.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "hamiltonhorizons-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -220973,17 +222007,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "http://cert.api.fiservapps.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "http://cert.asecu.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -221909,6 +222932,17 @@
         },
         {
           "asset_identifier": "http://cert.raymondjamesbank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://cert.redcrown.org",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -224758,6 +225792,17 @@
         },
         {
           "asset_identifier": "http://communitypartnerssb.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://communitypromisefcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -239200,6 +240245,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://lionsharecu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://llcu-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -243622,6 +244678,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://ndcfcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://neapfcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -243832,6 +244899,17 @@
         },
         {
           "asset_identifier": "http://netfcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://netfcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -247945,6 +249023,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://opecu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://opefcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -251377,6 +252466,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://presidentsfcu-dn.financial-net.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://preverifyexternalaccount.santanderbank.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -254392,6 +255492,17 @@
         },
         {
           "asset_identifier": "http://safcu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://safcu-dn.financial-net.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -259924,17 +261035,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "http://test.api.firstdata.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "http://test.billpay.ml.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -259991,17 +261091,6 @@
         },
         {
           "asset_identifier": "http://test.ea.financial-net.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "http://test.emea.api.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -264468,6 +265557,17 @@
         },
         {
           "asset_identifier": "http://wbhfcu.vbwebservices.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "http://wc3-cert-cigna.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -269252,6 +270352,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "huntingtonbank.fdecs.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "huntingtoncat.fdecs.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -269517,6 +270628,17 @@
         },
         {
           "asset_identifier": "ic-sp-dev.fiservapis.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ic-sp-qa.fiservapis.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -271837,6 +272959,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "lan-faircu-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "landmarkcu.caaweb.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -273795,6 +274928,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "mccunj-dc.cert.fec-dc.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "mcdonalds.wgiftcard.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -274984,6 +276128,17 @@
         },
         {
           "asset_identifier": "millenniumbank.originate.fiservapps.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "millstreamcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -279141,6 +280296,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "oma-prod-guardian.businesstrack.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "omahafcu-dc.cert.fec-dc.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -283134,6 +284300,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "preview-fashion-store-2.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "preview-fashion-store-in.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -283211,6 +284388,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "preview-retail28t1.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "preview-retail3-may25-colorado-springs.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -283256,6 +284444,17 @@
         },
         {
           "asset_identifier": "preview-retailo3-may25-colorado-springs.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "preview-rg-21.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -283453,6 +284652,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "preview-staging-test1.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "preview-steelwin13-alpharetta.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -283476,6 +284686,17 @@
         },
         {
           "asset_identifier": "preview-tanglessalon.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "preview-v1-rsztqratk3ed1.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -286973,6 +288194,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "samspa.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "samtest.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "samurai.wgiftcard.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -287953,6 +289196,17 @@
         },
         {
           "asset_identifier": "serviceo3-may25-colorado-springs.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "services-merchant.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -290482,6 +291736,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "stagges1s2-test-account-atlanta-9.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "staggesws1s2-test-account-atlanta-2.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -290516,6 +291781,17 @@
         },
         {
           "asset_identifier": "staggeswss1s2-test-account-atlanta-4.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "staggeswss1s2-test-account-atlanta.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -290626,6 +291902,17 @@
         },
         {
           "asset_identifier": "staging-tes.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "staging-test.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -291076,6 +292363,39 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "stg1.dev.clover.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "stg1a1.dev.clover.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "stg1a2.dev.clover.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "stg2.dev.clover.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -291429,6 +292749,17 @@
         },
         {
           "asset_identifier": "stylecollectionretail.staging.cloveronline.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "stylestreet.staging.cloveronline.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -292715,28 +294046,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "test-api-ipg-online-euw3.ns1.fiservapis.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "test-api-ipg-online-sae1.ns1.fiservapis.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "test-apigee-fiservapps.ns1.fiservapis.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -293452,6 +294761,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "test-winners.gift.solutions",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "test-woodmans.gift.solutions",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -293497,6 +294817,17 @@
         },
         {
           "asset_identifier": "test-yardhouse.gift.solutions",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "test.bills.bnymellon.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -294585,6 +295916,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "transactionverify.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "travelocityincentives.wgiftcard.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -294927,6 +296269,17 @@
         },
         {
           "asset_identifier": "trunorthernfcu.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "trunorthernfcu.net",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -299744,17 +301097,6 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "webster.fiserv.io",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "weefederal-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -301031,6 +302373,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ws-csdmavoice-dev.fiservapis.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ws-csdmavoice-qa.fiservapis.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -301274,6 +302627,17 @@
         },
         {
           "asset_identifier": "ws-los.fiservapis.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "ws-optisrg-cert.fiservapis.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
@@ -302549,6 +303913,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ynbok-p2.onlinebank.com",
+          "asset_type": "URL",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "yourgcu-admin.originate.fiservapps.com",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -303794,7 +305169,7 @@
     "name": "Beiersdorf",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/beiersdorf",
     "website": "https://www.beiersdorf.com",
@@ -342235,7 +343610,7 @@
     "name": "Mars",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 76,
+    "response_efficiency_percentage": 77,
     "submission_state": "open",
     "url": "https://hackerone.com/mars",
     "website": "http://mars.com",
@@ -449300,7 +450675,7 @@
     "name": "Polygon Technology",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/polygon-technology",
     "website": "https://polygon.technology",
@@ -450740,7 +452115,7 @@
     "name": "Amazon Vulnerability Research Program",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 65,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/amazonvrp",
     "website": "https://www.amazon.com",
@@ -452916,7 +454291,7 @@
     "name": "Shutterfly VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/shutterfly_vdp",
     "website": "https://www.shutterfly.com",
@@ -470687,7 +472062,7 @@
     "name": "Lark Technologies",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 65,
     "submission_state": "open",
     "url": "https://hackerone.com/lark_technologies",
     "website": "https://www.larksuite.com",
@@ -471068,7 +472443,7 @@
     "name": "Trellix",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 50,
+    "response_efficiency_percentage": 55,
     "submission_state": "open",
     "url": "https://hackerone.com/trellix",
     "website": "https://www.trellix.com",
@@ -472581,7 +473956,7 @@
     "name": "Capital One",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 90,
     "submission_state": "open",
     "url": "https://hackerone.com/capital-one",
     "website": "https://capitalone.com",
@@ -473768,7 +475143,7 @@
     "name": "Instacart",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/instacart",
     "website": "https://instacart.com",
@@ -475888,7 +477263,7 @@
     "name": "MercadoLibre",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 95,
     "submission_state": "open",
     "url": "https://hackerone.com/mercadolibre",
     "website": "https://www.mercadolibre.com",
@@ -482507,7 +483882,7 @@
     "name": "Chainlink",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 19,
+    "response_efficiency_percentage": 18,
     "submission_state": "open",
     "url": "https://hackerone.com/chainlink",
     "website": "https://chain.link/",
@@ -483497,7 +484872,7 @@
     "name": "pixiv",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/pixiv",
     "website": "https://www.pixiv.net",
@@ -483824,7 +485199,7 @@
     "name": "DuckDuckGo",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 58,
+    "response_efficiency_percentage": 60,
     "submission_state": "open",
     "url": "https://hackerone.com/duckduckgo",
     "website": "https://duckduckgo.com",
@@ -483889,7 +485264,7 @@
     "name": "Affirm",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/affirm",
     "website": "http://www.affirm.com",
@@ -487387,31 +488762,9 @@
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": null,
+          "instruction": "This site is in the process of being retired. Only Critical, High issues will be considered for bounty",
           "integrity_requirement": null,
           "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "*.foliodigitalwealth.com",
-          "asset_type": "OTHER",
-          "availability_requirement": "none",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "This site is in the process of being retired. Only Critical issues will be considered for bounty",
-          "integrity_requirement": "none",
-          "max_severity": "none"
-        },
-        {
-          "asset_identifier": "*.foliofirst.com",
-          "asset_type": "OTHER",
-          "availability_requirement": "none",
-          "confidentiality_requirement": "none",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "This site is in the process of being retired. Only Critical issues will be considered for bounty",
-          "integrity_requirement": "none",
-          "max_severity": "none"
         },
         {
           "asset_identifier": "*.foliofn.com",
@@ -487420,7 +488773,7 @@
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": null,
+          "instruction": "This site is in the process of being retired. Only Critical, High issues will be considered for bounty",
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -487431,7 +488784,7 @@
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": null,
+          "instruction": "This site is in the process of being retired. Only Critical, High issues will be considered for bounty",
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -487442,19 +488795,8 @@
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": null,
+          "instruction": "This site is in the process of being retired. Only Critical, High issues will be considered for bounty",
           "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "*.folioinvesting.com",
-          "asset_type": "OTHER",
-          "availability_requirement": "not_defined",
-          "confidentiality_requirement": "not_defined",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "This site is in the process of being retired. Only Critical issues will be considered for bounty",
-          "integrity_requirement": "not_defined",
           "max_severity": "critical"
         },
         {
@@ -487656,24 +488998,13 @@
           "max_severity": "critical"
         },
         {
-          "asset_identifier": "api.foliofn.com",
-          "asset_type": "URL",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": null,
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        },
-        {
           "asset_identifier": "apigw.foliofn.com",
           "asset_type": "URL",
           "availability_requirement": null,
           "confidentiality_requirement": null,
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
-          "instruction": null,
+          "instruction": "This site is in the process of being retired. Only Critical, High issues will be considered for bounty",
           "integrity_requirement": null,
           "max_severity": "critical"
         },
@@ -490663,7 +491994,7 @@
     "name": "Superhuman (formerly Grammarly)",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 90,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/superhuman",
     "website": "https://superhuman.com/",
@@ -491078,7 +492409,7 @@
     "name": "Bitwarden",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 99,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/bitwarden",
     "website": "https://bitwarden.com/",
@@ -493992,7 +495323,7 @@
     "name": "Roblox",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 61,
+    "response_efficiency_percentage": 62,
     "submission_state": "open",
     "url": "https://hackerone.com/roblox",
     "website": "https://www.roblox.com",
@@ -496854,7 +498185,7 @@
     "name": "RubyGems",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 82,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/rubygems",
     "website": "https://rubygems.org",
@@ -497215,7 +498546,7 @@
     "name": "EXNESS",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/exness",
     "website": "https://www.exness.com",
@@ -499261,7 +500592,7 @@
     "name": "Starbucks",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 64,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/starbucks",
     "website": "http://www.starbucks.com",
@@ -499503,7 +500834,7 @@
     "name": "Rockstar Games",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 74,
+    "response_efficiency_percentage": 73,
     "submission_state": "open",
     "url": "https://hackerone.com/rockstargames",
     "website": "http://www.rockstargames.com/",
@@ -500141,7 +501472,7 @@
     "name": "Wealthsimple",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 79,
+    "response_efficiency_percentage": 78,
     "submission_state": "open",
     "url": "https://hackerone.com/wealthsimple",
     "website": "https://www.wealthsimple.com",
@@ -500953,7 +502284,7 @@
     "name": "Tor",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 16,
+    "response_efficiency_percentage": 18,
     "submission_state": "open",
     "url": "https://hackerone.com/torproject",
     "website": "https://www.torproject.org/",
@@ -502123,7 +503454,7 @@
     "name": "CLEAR",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 85,
+    "response_efficiency_percentage": 84,
     "submission_state": "open",
     "url": "https://hackerone.com/clear",
     "website": "https://www.clearme.com/",
@@ -508509,7 +509840,7 @@
     "name": "LinkedIn",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 64,
     "submission_state": "open",
     "url": "https://hackerone.com/linkedin",
     "website": "https://www.linkedin.com",
@@ -510980,7 +512311,7 @@
     "name": "Coinbase",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 82,
     "submission_state": "open",
     "url": "https://hackerone.com/coinbase",
     "website": "https://coinbase.com/security",
@@ -511222,7 +512553,7 @@
     "name": "Concrete CMS",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 82,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/concretecms",
     "website": "https://www.concretecms.org",
