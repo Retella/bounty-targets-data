@@ -9714,6 +9714,34 @@
           "uri": "https://fivetran.com/login",
           "name": "*.fivetran.com",
           "ipAddress": ""
+        },
+        {
+          "type": "other",
+          "target": "https://it-fivetran.com",
+          "uri": "https://it-fivetran.com",
+          "name": "it-fivetran.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.getdbt.com",
+          "uri": "https://*.getdbt.com",
+          "name": "https://*.getdbt.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.dbt.com",
+          "uri": "https://*.dbt.com",
+          "name": "https://*.dbt.com",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://*.dbtlabs.com",
+          "uri": "https://*.dbtlabs.com",
+          "name": "https://*.dbtlabs.com",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [

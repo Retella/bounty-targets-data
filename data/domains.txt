@@ -181,6 +181,7 @@ sb-mobile-api.fireblocks.io
 sandbox-api.fireblocks.io
 www.tdfitloan.com
 fivetran.com
+it-fivetran.com
 flo.uri.sh
 flourish.studio
 xyzbmojn.net
@@ -1994,6 +1995,7 @@ securefilepro.com
 taxact.com
 taxwell.com
 taxwell.org
+1console.twilio.com
 api.sendgrid.com
 app.segment.com
 app.sendgrid.com
@@ -2002,16 +2004,14 @@ client.dev
 connectedapps.dev
 console.twilio.com
 help.twilio.com
-tsock.us1.twilio.com
-twilio.com
-segment.com
 stytch.com
-www.twilio.com
 isagent.dev
 mc.sendgrid.com
 sendgrid.com
 signup.sendgrid.com
 smtp.sendgrid.net
+tsock.us1.twilio.com
+twilio.com
 buconnectfl.bankunited.com
 buconnectny.bankunited.com
 ccr.bankunited.com
@@ -37684,10 +37684,6 @@ mynexuz.be
 liquidfiles.nexuzhealth.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
