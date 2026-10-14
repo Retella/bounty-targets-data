@@ -9610,6 +9610,85 @@
     }
   },
   {
+    "id": "64f80113-969e-4c55-9649-8a044487941c",
+    "name": "PDQ bug bounty program",
+    "company_handle": "pdq",
+    "handle": "pdqcomprivate",
+    "url": "https://www.intigriti.com/programs/pdq/pdqcomprivate/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 50,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 3500,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://auth2.pdq.com/",
+          "description": "Production environment for our authentication tool — please take care not to disrupt any services when testing",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://library.pdq.com/",
+          "description": "Production environment for our Package Library — please take care not to disrupt any services when testing",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://portal.pdq.com/",
+          "description": "Production environment for our billing portal — please take care not to disrupt any services when testing",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://app.pdq.com/",
+          "description": "Production environment for our PDQ Connect — please take care not to disrupt any services when testing",
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://a.simplemdm.com/",
+          "description": "Production environment for SimpleMDM — please take care not to disrupt any services when testing",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.pdq.com/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.pdq.tools/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.simplemdm.com/ ",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "https://*.smartdeploy.com/ ",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
     "id": "9ef59fe8-d021-4d23-9521-0d7d01da03ee",
     "name": "PeopleCert VDP",
     "company_handle": "peoplecert",
@@ -13303,283 +13382,6 @@
     }
   },
   {
-    "id": "2cf03670-6a2d-4ac7-8b1e-2e0d84338204",
-    "name": "UZ Leuven",
-    "company_handle": "uz leuven",
-    "handle": "uzleuven",
-    "url": "https://www.intigriti.com/programs/uz%20leuven/uzleuven/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 50,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 5000,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "autodiscover.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "ecrf.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "extranet-asa.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "extranet.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "liquidfiles.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "mx1.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "mx2.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "pcrstudioruzb.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "prddsplunkhf.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "sts.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "www.uzleuven.be",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "iprange",
-          "endpoint": "193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111",
-          "description": "These are the ip's used by our reverse proxy.\nThe Host header will determine the bounty tier.\nIf a report is submitted where the Host header is not used we will default to Tier 2.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "wp5-truststroke.uzleuven.be",
-          "description": "* access to /api/ should only work from BE or NL ip's\n* access to other paths or / should not work",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "cardsonline.azdiest.be",
-          "description": "This webapp should return a http 403 error due to ip whitelisting.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "liquidfilestest.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "random.uzleuven.be/random/",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "teststs.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "w1.uzleuven.be",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "cardsonlinetst.azdiest.be",
-          "description": "This webapp should return a http 403 error due to ip whitelisting.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.kwsdose.be",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.playuzleuven.be",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.uzleuven.*",
-          "description": "#### *.uzleuven.be (tier 3) only applies to everything that hasn't been listed in the scope.",
-          "impact": "Tier 3"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.contactallerg(y|ie).uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.mir.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*dev.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*idp*.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*stag*.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "files.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "kumulus.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "mijnacc.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "mirc.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "prddnighting01.uzleuven.be",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "w1.uzleuven.be/random",
-          "description": null,
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "ziekenhuisschool.be",
-          "description": null,
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "boekentoy.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uz-laboboeken.web.app",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "laboboeken.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "boekentoy.firebaseio.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uz-laboboeken.firebaseio.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "jobs.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "uzleuven.atlassian.net",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "vacatures.uzleuven.be",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
     "id": "eb340a46-b5b8-4165-b8d8-bc032493e8a6",
     "name": "Ubisoft Responsible Disclosure Program",
     "company_handle": "ubisoft",
@@ -14303,24 +14105,6 @@
           "type": "url",
           "endpoint": "aiassistant.stage.vismaonline.com",
           "description": "**AI Assistant**\n\nThe AI Assistant is a AI bot that answers support questions based on public product documentation for Visma Spcs products like Visma eAccounting and Visma Advisor.\n\nYou need to register an user to test this system. The sign-up up process is described in this document:\n\nhttps://vismabugbountyprod.z16.web.core.windows.net/Visma-eAccounting-1GWFyEopW9dTKsGYM3FJ-getting-started.pdf\n**Please note that the training code has changed!** It is now: wr0d4 , also make sure to select the same Program/Service options as the Getting Started document has. \n\nThis video also shows the entire setup (only Swedish audio) https://www.youtube.com/watch?v=kVr_CXgfhi0&t=4s\n\nTLDR: Goto https://admin.stage.vismaonline.com/Customer/StudentSignup.aspx and sign up with the training code \"wr0d4\"\n\n**Out of Scope**\n\n* HTML injection, the AI Assistant should be able to output HTML to the chat window.\n* functionalities that belong to other applications that AI Assistant is integrated with (e.g. Visma Advisor or other Visma SPCS products).",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.workbox.dk",
-          "description": "**Dinero**\nThis is Dinero's Public API.See instructions for \"app.workbox.dk\"",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "app.workbox.dk",
-          "description": "**Dinero**\nDinero is an accounting software for sole traders and micro businesses based out of Denmark. Our only target group is danish companies and therefore the interface is in danish only. The application is a SaaS application hosted in the cloud and consists of a main application and a number of supportive microservices.\n\nSee the getting started document here: https://vismabugbountyprod.z16.web.core.windows.net/VismaDinero-37UeRwujIXh7r9n3Wol6-getting-started.pdf\n\n**Out of scope:**\n* Issues related to login /user creation / forgot-password and /profile page\n* The Cookie \".AspNet.Cookies\" is not set with HttpOnly which is a known vulnerability - please do not report it.\n* Session invalidation issues (e.g. logout, password change, email change, role change, user deletion, etc).\n* Getting access to Pro features as Free user\n* Rate-limiting issues (accepted risk)\n* cvrservice.workbox.dk, this endpoint is used for searches of publicly available data\n* [2026-03-31] Unauthenticated access to invoice, trade offer, or voucher mailout links — these are intentionally publicly accessible",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "authz.workbox.dk",
-          "description": "**Dinero**\nUsed for Authorization (OAuth). See instructions for \"app.workbox.dk\"",
           "impact": "Tier 2"
         },
         {
