@@ -11,6 +11,7 @@
 *.backblazeb2.com
 *.bitdefender.net
 *.bitdefender.com
+*.bitgo.com
 *.blofin.com
 *.boltable.eu
 *.gov.bugcrowd.net
