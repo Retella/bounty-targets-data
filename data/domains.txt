@@ -203,9 +203,7 @@ www.myprotein.com
 www.myvitamins.com
 www.arrowfilms.com
 www.mankind.co.uk
-www.illamasqua.com
 www.matalan.co.uk
-www.enjoyselfish.com
 accounts.hytale.com
 store.hytale.com
 hytale.com
@@ -2111,6 +2109,8 @@ rgbk.com
 1w.cash
 1w.run
 1win.com
+1wintoken.com
+1wtoken.com
 www.tucows.com
 api.jobs.hackthebox.com
 academy.hackthebox.com
@@ -36394,6 +36394,7 @@ swiftfinancial.com
 www.loanbuilder.com
 www.swiftcapital.com
 www.swiftfinancial.com
+mariadb.org
 billingsupport.chaturbate.com
 chaturbate.com
 m.chaturbate.com
@@ -38335,8 +38336,6 @@ essentials.vinci.com
 www.chaire-arpenter.fr
 www.habileoh.com
 stats.vinci.com
-preprod-xam.xelians.fr
-preprod-datahub.xelians.fr
 yeswehack.com
 api.yeswehack.com
 apps.yeswehack.com

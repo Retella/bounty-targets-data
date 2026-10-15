@@ -1002,48 +1002,6 @@
         },
         {
           "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "name": "Enriched Profiles for JSM - Cloud Hosted - https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "name": "Typeform integration for JSM - Cloud Hosted - https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "name": "Enriched Profiles for JSM - https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "name": "Typeform integration for JSM - https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "name": "Release planning and reports for Jira - Cloud Hosted - https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
-          "target": "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "uri": "https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "name": "Release planning and reports for Jira - https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
           "target": "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview",
           "uri": "https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview",
           "name": "ARN Confluence Helper App - Cloud Hosted - https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview",
@@ -6748,10 +6706,10 @@
       "out_of_scope": [
         {
           "type": "website",
-          "target": "https://www.wien.gv.at/advuew/*",
-          "uri": "",
-          "name": "https://www.wien.gv.at/advuew/*",
-          "ipAddress": ""
+          "target": "https://*/advuew/*",
+          "uri": null,
+          "name": "https://*/advuew/*",
+          "ipAddress": null
         },
         {
           "type": "website",
@@ -6783,10 +6741,10 @@
         },
         {
           "type": "website",
-          "target": "https://www.wien.gv.at/umfrage/*",
-          "uri": "",
-          "name": "https://www.wien.gv.at/umfrage/*",
-          "ipAddress": ""
+          "target": "https://*/umfrage/*",
+          "uri": null,
+          "name": "https://*/umfrage/*",
+          "ipAddress": null
         },
         {
           "type": "other",
@@ -10719,23 +10677,9 @@
         },
         {
           "type": "website",
-          "target": "https://www.illamasqua.com/",
-          "uri": "https://www.illamasqua.com/",
-          "name": "https://*.illamasqua.com/",
-          "ipAddress": null
-        },
-        {
-          "type": "website",
           "target": "https://www.matalan.co.uk",
           "uri": "https://www.matalan.co.uk",
           "name": "https://www.matalan.co.uk",
-          "ipAddress": ""
-        },
-        {
-          "type": "website",
-          "target": "https://www.enjoyselfish.com",
-          "uri": "https://www.enjoyselfish.com",
-          "name": "https://*.enjoyselfish.com",
           "ipAddress": ""
         }
       ],
