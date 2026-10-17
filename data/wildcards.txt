@@ -3086,6 +3086,7 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3195,9 +3196,6 @@ www.fing.com*
 *.prod-ffs.io
 *.nestle.com
 *.nexuzhealth.*
-*.ninjakiwi.me
-*.nkstatic.com
-*.souparea.com
 *.nxtport.com
 *.ouraring.com
 *.alphagary.com
