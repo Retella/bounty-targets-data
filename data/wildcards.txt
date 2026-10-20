@@ -2920,6 +2920,7 @@ www.paypal-*.com
 *.ovo.id
 *.ovofinansial.com
 *.kayak.com
+*.hey.com
 *.pci.shopifyinc.com
 *.shopify.com
 *.shopify.io
@@ -3280,6 +3281,8 @@ aqora.naiad.*
 *.app.spacelift.dev
 *.speakap.com
 *.speakap.io
+*.sqills.com
+*.sqills.team
 *.sppfonder.se
 *.storebrandrealestate.se
 *.storebrandfunds.com
