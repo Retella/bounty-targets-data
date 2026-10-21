@@ -3980,6 +3980,13 @@
           "uri": "",
           "name": "Trustwallet Chrome Extension",
           "ipAddress": ""
+        },
+        {
+          "type": "website",
+          "target": "https://binance.th/",
+          "uri": null,
+          "name": "https://binance.th/",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [
@@ -27847,7 +27854,7 @@
           "type": "network",
           "target": "http://10.72.218.66/flag.txt",
           "uri": "http://10.72.218.66/flag.txt",
-          "name": "T&P Servers",
+          "name": "T&P Servers (Temporarily Out of Scope)",
           "ipAddress": null
         },
         {

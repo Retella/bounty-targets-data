@@ -3090,6 +3090,7 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3372,13 +3373,6 @@ aqora.naiad.*
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
-*.mir.uzleuven.be
-*dev.uzleuven.be
-*idp*.uzleuven.be
-*stag*.uzleuven.be
 *.unibas.ch
 *.optimuscards.com
 *.topperpay.com
