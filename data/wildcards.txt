@@ -2598,8 +2598,6 @@ support*.earlywarning.com
 *.expedia-aarp.com
 *.expedia.biz
 *.expedia.com
-*.expediaagents.com
-*.expediacruises.com
 *.expediagroup.com
 *.expediapartnercentral.com
 *.expediapartnersolutions.com
@@ -3373,6 +3371,13 @@ aqora.naiad.*
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*
+*.mir.uzleuven.be
+*dev.uzleuven.be
+*idp*.uzleuven.be
+*stag*.uzleuven.be
 *.unibas.ch
 *.optimuscards.com
 *.topperpay.com
