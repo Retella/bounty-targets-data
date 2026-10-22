@@ -24151,6 +24151,7 @@ license.gussag.com
 licensemanager.deere.com
 link.services.wirtgen-group.com
 links.help.agrisync.com
+linksp.jdiberica.deere.com
 lists.wirtgenankara.com.tr
 lms-backend.apps-devl-vpn.us.e06.c01.johndeerecloud.com
 lms-backend.apps-prod-vpn.us.e06.c01.johndeerecloud.com
@@ -36471,6 +36472,8 @@ www.crowdstrike.org
 accounts.cloud.databricks.com
 databricks.com
 dbc-9a3f8ed1-7608.cloud.databricks.com
+login.databricks.com
+ui-assets.cloud.databricks.com
 api.thecoalition.com
 app.wirespeed.co
 coalitioninc.com
