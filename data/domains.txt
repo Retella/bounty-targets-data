@@ -3313,7 +3313,6 @@ mcp.supabase.com
 multiplayer.dev
 supabase.help
 supabase.link
-supabase.store
 supabase.com
 aurinkomatkat.fi
 auth.finnair.com
@@ -37740,6 +37739,10 @@ lirportal.ripe.net
 business.rivian.com
 rivian.com
 basecamp.rivian.com
+www.sbb.ch
+www.elvetino.ch
+www.sbbcargo.com
+www.transsicura.ch
 www.socialdeal.nl
 www.spontaan.nl
 socialdeal.nl
