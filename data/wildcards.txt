@@ -3090,6 +3090,7 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3383,6 +3384,8 @@ aqora.naiad.*
 *.vtm.be
 *.vtmgo.be
 *.vlerick.com
+*.voi.com
+*.voiscooters.com
 *.deliciousbrains.com
 *.localwp.com
 *.nitropack.io
