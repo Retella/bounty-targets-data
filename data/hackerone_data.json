@@ -2905,7 +2905,7 @@
     "name": "Aegean Airlines Vulnerability Disclosure",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 89,
     "submission_state": "open",
     "url": "https://hackerone.com/aegean_airlines_vdp",
     "website": "http://aegeanair.com",
@@ -6150,7 +6150,7 @@
     "name": "PhonePe",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 60,
     "submission_state": "open",
     "url": "https://hackerone.com/phonepe_vdp",
     "website": "https://www.phonepe.com/",
@@ -15941,7 +15941,7 @@
     "name": "Anduril Industries",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 88,
+    "response_efficiency_percentage": 87,
     "submission_state": "open",
     "url": "https://hackerone.com/anduril_industries",
     "website": "https://www.anduril.com",
@@ -18002,7 +18002,7 @@
     "name": "DoorDash",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 76,
+    "response_efficiency_percentage": 75,
     "submission_state": "open",
     "url": "https://hackerone.com/doordash",
     "website": "http://doordash.com",
@@ -26768,7 +26768,7 @@
     "name": "Ferrero",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/ferrero",
     "website": "https://www.ferrero.com",
@@ -27204,6 +27204,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://quality-ksb-onepiecenetflix-de-2026.ipaasferrero.com/de/de/xp/ksb-onepiecenetflix",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://quality-songsmitherz-de-2026.ipaasferrero.com/de/de/xp/songsmitherz",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -27270,6 +27281,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "http://www.kinder.com/de/de/xp/ksb-onepiecenetflix",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "http://www.kindercreamypromo.com/in/en/xp/freegiftwitheverypack",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -27300,6 +27322,17 @@
           "eligible_for_submission": true,
           "instruction": "",
           "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://2627.quellidellacolazione.it/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
           "max_severity": "critical"
         },
         {
@@ -27435,6 +27468,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://baltic.kinder.com/lv/lv/xp/bueno/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://baltic.kinder.com/lv/lv/xp/karnevals/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -27491,6 +27535,39 @@
         },
         {
           "asset_identifier": "https://baltic.nutella.com/bc/lv/xp/loterija/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://baltic.nutella.com/bc/lv/xp/maize/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://beta.nutellakochapieczywo.nutella.com",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://beta.nutellakochapieczywo.nutella.com/admin_9anga7jr3",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -27622,6 +27699,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://cms-ksbcavengers-in-2026.ipaasferrero.com/in/en/xp/ksbcavengers/user/login",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://cms-nutella-academy-fr-2025.ferreropromo.com/fr/fr/xp/academy-event",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -27634,6 +27722,28 @@
         },
         {
           "asset_identifier": "https://cms-personalised-nutella-jar-int-2025.ipaasferrero.com/uk/en/xp/personalised-nutella-jar/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cms-pingui-win-uk-2026.ipaasferrero.com/uk/en/xp/pingui-win/user",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cms-pingui-win-uk-2026.ipaasferrero.com/uk/en/xp/pingui-win/user/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -27677,7 +27787,51 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://cmsquality-golden-ticket-de-2026.ipaasferrero.com/de/de/xp/golden-ticket/user/login/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://cmsquality-golden-ticket-uk-2026.ipaasferrero.com/uk/uk/xp/golden-ticket/user/login/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cmsquality-golden-ticket-us-2026.ipaasferrero.com/us/en/xp/golden-ticket/user/login/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cmsquality-ticket-d-or-fr-2026.ipaasferrero.com/fr/fr/xp/ticket-d-or/user/login",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cmsquality-vinciwonka2026-it-2026.ipaasferrero.com/it/it/xp/vinciwonka2026/user/login",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -27699,7 +27853,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://cmsquality-wonka-us-2026.ipaasferrero.com/uk/user",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://cmsquality-xmas-com-2026.ipaasferrero.com/uk/en/xp/nutella-christmas/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://development.winwiththorntons.co.uk/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://estathebacktowork26.estathe.it",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -27728,6 +27915,17 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://eventi.ferrero.it",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": "high",
           "max_severity": "critical"
         },
@@ -27963,6 +28161,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://gewinnspiel.mein-ferrero.de/jutebeutel",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://gewinnspiel.mein-ferrero.de/loyalty-gewinnspiel/",
           "asset_type": "URL",
           "availability_requirement": "medium",
@@ -28051,6 +28260,28 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://keeblerspookiesweeps.com/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://keeblerspookiesweeps.com/berlin-beta/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://kids.kinder.ro/ro/ro/xp/lets-story/",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -28117,7 +28348,29 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://kinderamc.gypserver.com/h5v3/?openid=889900",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://kinderbuenogamedaysweeps.com/us/en/xp/game-day-sweeps/berlin-beta/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://kinderchocolate.pl/pl/pl/xp/kinder-chocolate/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -28135,6 +28388,17 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://kindercolorbots.h2h.tech/pl/pl/xp/kindercolorbots/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": "high",
           "max_severity": "critical"
         },
@@ -28205,7 +28469,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://ncp2026.ferrero-campaigns.com/bg/bg/xp/refinedtaste/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://nutella.com/ro/ro/xp/craciunul-cu-nutella",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://nutella.ferrerobulgariapromo.com/bg/bg/xp/nutellaandbread/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://nutella.ferrerobulgariapromo.com/bg/bg/xp/nutellaandbread/admin",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -28404,6 +28701,17 @@
         },
         {
           "asset_identifier": "https://preprod.nutella.ai/admin/#/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://prod.kinderpack.be/fr",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -28678,6 +28986,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://quality-ferrerocollection-com-2026.ipaasferrero.com/us/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://quality-gemeinsam-jubeln-rewe-de-2026.ipaasferrero.com/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -28689,7 +29008,29 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://quality-golden-ticket-de-2026.ipaasferrero.com/de/de/xp/golden-ticket/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://quality-golden-ticket-uk-2026.ipaasferrero.com/uk/uk/xp/golden-ticket/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://quality-golden-ticket-us-2026.ipaasferrero.com/us/en/xp/golden-ticket/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -28799,6 +29140,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://quality-nutella-academy-de-2026.ipaasferrero.com/de/de/xp/nutella-academy/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://quality-nutella-minis-de-2025.ipaasferrero.com/de/de/xp/nutella-minis/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -28873,6 +29225,50 @@
           "eligible_for_submission": true,
           "instruction": "",
           "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://quality-ticket-d-or-fr-2026.ipaasferrero.com/fr/fr/xp/ticket-d-or/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://quality-vinciwonka2026-it-2026.ipaasferrero.com/it/it/xp/vinciwonka2026/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://quality-wonka-us-2026.ipaasferrero.com/uk/en/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://quality-xmas-com-2026.ipaasferrero.com/uk/en/xp/nutella-christmas/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
           "max_severity": "critical"
         },
         {
@@ -28997,6 +29393,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://stage.spookiefts.com/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://staging-spookiesweepstakes.snipp.us/",
           "asset_type": "URL",
           "availability_requirement": null,
@@ -29097,6 +29504,28 @@
         },
         {
           "asset_identifier": "https://testpralinecrm.ferrero.com.cn/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://tic-tac-two-preview.tictac.com",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://tic-tac-two.tictac.com/au/en/xp/tic-tac-two",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29316,6 +29745,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www-quellidellacolazione-it-2026.ipaasferrero.com/admin/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www-snackestate2026-ferreropromo-be-it-2026.ipaasferrero.com/admin",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29415,6 +29855,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.ferrero-eis.de/xp/gratistesten/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.ferrero-kuesschen.de/sampling-gewinnspiel",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29470,6 +29921,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.ferrerocollection.com/us/en",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.ferrerorocher.com/bg/bg/xp/addgoldentouch/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29493,6 +29955,28 @@
         },
         {
           "asset_identifier": "https://www.ferrerorocher.com/bg/bg/xp/goldenexperience/admin/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.ferrerorocher.com/bg/bg/xp/refinedtaste/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.ferrerorocher.com/bg/bg/xp/refinedtaste/admin",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29569,6 +30053,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.ferrerorocher.com/us/en/xp/make-it-gold",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.ferrerorocherph.com",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29603,6 +30098,17 @@
         },
         {
           "asset_identifier": "https://www.ferrerorochersg.com/lunar_new_year",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.formulaire-jeu-concours.ferrero.fr/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29756,6 +30262,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.kinder.com/in/en/xp/ksbcavengers",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.kinder.com/in/en/xp/ksbccheertowin/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29789,6 +30306,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.kinder.com/it/it/xp/vincimomentiinsieme2026",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.kinder.com/kz/kk/xp/kseasonalpromo/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29801,6 +30329,17 @@
         },
         {
           "asset_identifier": "https://www.kinder.com/kz/ru/xp/kseasonalpromo/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.kinder.com/lv/lv/xp/bueno/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29855,6 +30394,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.kinder.com/pl/pl/xp/kindercolorbots",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.kinder.com/pl/pl/xp/kinderdziendziecka",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -29878,6 +30428,17 @@
         },
         {
           "asset_identifier": "https://www.kinder.com/tw/zh/xp/kinderbuenotw/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.kinder.com/uk/en/xp/pingui-win/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29965,7 +30526,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.nutella.com/bc/lv/xp/maize/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.nutella.com/bg/bg/xp/nutellaandbread/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.nutella.com/bg/bg/xp/xmas/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.nutella.com/de/de/xp/brot-entdecken",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -29987,7 +30581,40 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.nutella.com/de/de/xp/nutella-academy/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.nutella.com/de/de/xp/nutella-brotkorb",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.nutella.com/de/de/xp/nutella-minis",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.nutella.com/de/de/xp/nutellabakery-cashback/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -30108,6 +30735,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.nutella.com/pl/pl/xp/nutellakochapieczywo2026/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.nutella.com/sg/en/xp/nutellasgs/#home",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -30185,6 +30823,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.pocketcoffee.de/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.podarujraffaello.pl/",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -30192,6 +30841,17 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": "",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.pp-formulaire-jeu-concours.ferrero.fr/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
           "integrity_requirement": "high",
           "max_severity": "critical"
         },
@@ -30361,7 +31021,51 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "https://www.wonka.com/de/de/xp/golden-ticket/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.wonka.com/fr/fr/xp/ticket-d-or/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.wonka.com/it/it/xp/vinciwonka2026/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "https://www.wonka.com/uk/en/xp/golden-ticket/",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://www.wonka.com/us/en/xp/golden-ticket/",
           "asset_type": "URL",
           "availability_requirement": "high",
           "confidentiality_requirement": "high",
@@ -30661,7 +31365,7 @@
     "name": "Baird",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/baird_vdp",
     "website": "http://www.rwbaird.com/",
@@ -30946,7 +31650,7 @@
     "name": "Whoop Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 80,
+    "response_efficiency_percentage": 81,
     "submission_state": "open",
     "url": "https://hackerone.com/whoop_bug_bounty",
     "website": "https://www.whoop.com",
@@ -34119,7 +34823,7 @@
     "name": "Starbucks China",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/starbucks_china",
     "website": "http://starbucks.com",
@@ -34666,7 +35370,7 @@
     "name": "PepsiCo VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/pepsico_vdp",
     "website": "http://pepsico.com",
@@ -54019,7 +54723,7 @@
     "name": "Varonis",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 63,
+    "response_efficiency_percentage": 61,
     "submission_state": "open",
     "url": "https://hackerone.com/varonis",
     "website": "https://www.varonis.com/",
@@ -54140,7 +54844,7 @@
     "name": "ION Group",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 82,
     "submission_state": "open",
     "url": "https://hackerone.com/ion",
     "website": "https://iongroup.com/",
@@ -70057,7 +70761,7 @@
     "name": "Klarna",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/klarna",
     "website": "https://klarna.com",
@@ -70453,7 +71157,7 @@
     "name": "Walt.io",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 97,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/walt_io",
     "website": "https://walt.io/",
@@ -70727,7 +71431,7 @@
     "name": "SingleStore",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 51,
+    "response_efficiency_percentage": 53,
     "submission_state": "open",
     "url": "https://hackerone.com/singlestore",
     "website": "http://singlestore.com",
@@ -73100,7 +73804,7 @@
     "name": "TransUnion LLC",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 78,
+    "response_efficiency_percentage": 81,
     "submission_state": "open",
     "url": "https://hackerone.com/transunion",
     "website": "http://transunion.com",
@@ -74948,7 +75652,7 @@
     "name": "23andMe Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 89,
     "submission_state": "open",
     "url": "https://hackerone.com/23andme_bbp",
     "website": "http://23andme.org",
@@ -79672,7 +80376,7 @@
     "name": "Visa",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 72,
     "submission_state": "open",
     "url": "https://hackerone.com/visa",
     "website": "http://www.visa.com",
@@ -86403,7 +87107,7 @@
     "name": "OKG",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 98,
+    "response_efficiency_percentage": 99,
     "submission_state": "open",
     "url": "https://hackerone.com/okg",
     "website": "",
@@ -92929,7 +93633,7 @@
     "name": "ProductBoard, Inc.",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 33,
+    "response_efficiency_percentage": 40,
     "submission_state": "open",
     "url": "https://hackerone.com/productboard",
     "website": "http://productboard.com",
@@ -104938,7 +105642,7 @@
     "name": "Abercrombie & Fitch Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 90,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/abercrombie_fitch_bbp",
     "website": "http://abercrombie.com",
@@ -166475,7 +167179,7 @@
     "name": "Ripio",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 91,
     "submission_state": "open",
     "url": "https://hackerone.com/ripio",
     "website": "http://ripio.com",
@@ -168965,7 +169669,7 @@
     "name": "Moov",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 81,
+    "response_efficiency_percentage": 79,
     "submission_state": "open",
     "url": "https://hackerone.com/moov",
     "website": "http://moov.io",
@@ -174044,7 +174748,7 @@
     "name": "Redis VDP",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 73,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/redis-vdp",
     "website": "http://redis.io",
@@ -174173,7 +174877,7 @@
     "name": "Mondelēz International",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 93,
+    "response_efficiency_percentage": 92,
     "submission_state": "open",
     "url": "https://hackerone.com/mondelez",
     "website": "https://www.mondelezinternational.com/",
@@ -178462,7 +179166,7 @@
     "name": "Capital One Bug Bounty",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 86,
+    "response_efficiency_percentage": 85,
     "submission_state": "open",
     "url": "https://hackerone.com/capital-one-bounty",
     "website": "http://capitalone.com",
@@ -179888,7 +180592,7 @@
     "name": "Newegg",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 70,
+    "response_efficiency_percentage": 71,
     "submission_state": "open",
     "url": "https://hackerone.com/newegg",
     "website": "https://newegg.com",
@@ -181566,7 +182270,7 @@
     "name": "LATAM Airlines",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 89,
+    "response_efficiency_percentage": 88,
     "submission_state": "open",
     "url": "https://hackerone.com/latamairlines",
     "website": "https://latam.com",
@@ -307353,6 +308057,17 @@
           "max_severity": "critical"
         },
         {
+          "asset_identifier": "ai-quest.deere.com",
+          "asset_type": "URL",
+          "availability_requirement": "low",
+          "confidentiality_requirement": "low",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "low",
+          "max_severity": "critical"
+        },
+        {
           "asset_identifier": "ai.deere.com",
           "asset_type": "URL",
           "availability_requirement": "high",
@@ -319435,6 +320150,17 @@
           "asset_type": "URL",
           "availability_requirement": "low",
           "confidentiality_requirement": "low",
+          "eligible_for_bounty": false,
+          "eligible_for_submission": true,
+          "instruction": null,
+          "integrity_requirement": "low",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "r3b1ignition.mfg-mfgiotsa-prod-vpn.sa.e11.c01.johndeerecloud.com",
+          "asset_type": "URL",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "medium",
           "eligible_for_bounty": false,
           "eligible_for_submission": true,
           "instruction": null,
@@ -450444,7 +451170,7 @@
     "name": "Insightly",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/insightly",
     "website": "http://insightly.com",
@@ -451192,7 +451918,7 @@
     "name": "Amazon Vulnerability Research Program",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 62,
+    "response_efficiency_percentage": 61,
     "submission_state": "open",
     "url": "https://hackerone.com/amazonvrp",
     "website": "https://www.amazon.com",
@@ -454027,7 +454753,7 @@
     "name": "SHEIN",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 62,
+    "response_efficiency_percentage": 61,
     "submission_state": "open",
     "url": "https://hackerone.com/shein",
     "website": "http://shein.com",
@@ -455580,7 +456306,7 @@
     "name": "Picsart",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 36,
+    "response_efficiency_percentage": 50,
     "submission_state": "open",
     "url": "https://hackerone.com/picsart",
     "website": "http://picsart.com",
@@ -455799,7 +456525,7 @@
     "name": "Evernote",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 77,
+    "response_efficiency_percentage": 76,
     "submission_state": "open",
     "url": "https://hackerone.com/evernote",
     "website": "http://evernote.com",
@@ -456788,7 +457514,7 @@
     "name": "lemlist",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 94,
+    "response_efficiency_percentage": 100,
     "submission_state": "open",
     "url": "https://hackerone.com/lemlist",
     "website": "https://lemlist.com",
@@ -472134,7 +472860,7 @@
     "name": "Dynatrace",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/dynatrace",
     "website": "https://dynatrace.com",
@@ -474803,7 +475529,7 @@
     "name": "Instacart",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 75,
+    "response_efficiency_percentage": 74,
     "submission_state": "open",
     "url": "https://hackerone.com/instacart",
     "website": "https://instacart.com",
@@ -475056,7 +475782,7 @@
     "name": "Ford",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 67,
+    "response_efficiency_percentage": 80,
     "submission_state": "open",
     "url": "https://hackerone.com/ford",
     "website": "http://ford.com",
@@ -483137,7 +483863,7 @@
     "name": "Flipkart",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 84,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/flipkart",
     "website": "https://flipkart.com",
@@ -483543,7 +484269,7 @@
     "name": "Chainlink",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 17,
+    "response_efficiency_percentage": 16,
     "submission_state": "open",
     "url": "https://hackerone.com/chainlink",
     "website": "https://chain.link/",
@@ -484390,7 +485116,7 @@
     "name": "MariaDB",
     "offers_bounties": false,
     "offers_swag": false,
-    "response_efficiency_percentage": 57,
+    "response_efficiency_percentage": 62,
     "submission_state": "open",
     "url": "https://hackerone.com/mariadb",
     "website": "https://mariadb.org",
@@ -484466,7 +485192,7 @@
     "name": "Chaturbate",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 72,
+    "response_efficiency_percentage": 70,
     "submission_state": "open",
     "url": "https://hackerone.com/chaturbate",
     "website": "https://chaturbate.com",
@@ -485605,7 +486331,7 @@
     "name": "Ping Identity",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 62,
+    "response_efficiency_percentage": 63,
     "submission_state": "open",
     "url": "https://hackerone.com/pingidentity",
     "website": "https://www.pingidentity.com/",
@@ -491742,7 +492468,7 @@
     "name": "Superhuman (formerly Grammarly)",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 90,
+    "response_efficiency_percentage": 89,
     "submission_state": "open",
     "url": "https://hackerone.com/superhuman",
     "website": "https://superhuman.com/",
@@ -496442,7 +497168,7 @@
     "name": "Lyst",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 71,
+    "response_efficiency_percentage": 72,
     "submission_state": "open",
     "url": "https://hackerone.com/lyst",
     "website": "https://www.lyst.com",
@@ -497685,6 +498411,82 @@
           "eligible_for_bounty": true,
           "eligible_for_submission": true,
           "instruction": " ",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "allows_bounty_splitting": true,
+    "average_time_to_bounty_awarded": 90.0,
+    "average_time_to_first_program_response": 12.0,
+    "average_time_to_report_resolved": null,
+    "handle": "brave",
+    "id": 0,
+    "managed_program": false,
+    "name": "Brave Software",
+    "offers_bounties": true,
+    "offers_swag": true,
+    "response_efficiency_percentage": 100,
+    "submission_state": "open",
+    "url": "https://hackerone.com/brave",
+    "website": "https://brave.com",
+    "targets": {
+      "in_scope": [
+        {
+          "asset_identifier": "Brave Browser Desktop",
+          "asset_type": "DOWNLOADABLE_EXECUTABLES",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "Please specify operating system and version of Brave. Only issues in the latest nightly/beta/stable releases are in scope.",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "Brave websites",
+          "asset_type": "OTHER",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "This includes but is not limited to Brave Search, Brave Search API dashboard, Brave Creators, Brave Accounts, Brave Talk, and Brave Ads dashboard. Please do not report issues that have no real user impact.",
+          "integrity_requirement": null,
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "com.brave.browser",
+          "asset_type": "GOOGLE_PLAY_APP_ID",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "com.brave.ios.browser",
+          "asset_type": "APPLE_STORE_APP_ID",
+          "availability_requirement": "high",
+          "confidentiality_requirement": "high",
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "",
+          "integrity_requirement": "high",
+          "max_severity": "critical"
+        },
+        {
+          "asset_identifier": "https://github.com/brave/*, https://github.com/brave-intl/*",
+          "asset_type": "SOURCE_CODE",
+          "availability_requirement": null,
+          "confidentiality_requirement": null,
+          "eligible_for_bounty": true,
+          "eligible_for_submission": true,
+          "instruction": "In general we're interested in vulnerabilities in all GitHub repos under brave/ and brave-intl/, barring explicit exclusions. Also exclude forks and archived repos.",
           "integrity_requirement": null,
           "max_severity": "critical"
         }
@@ -503092,7 +503894,7 @@
     "name": "CLEAR",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 83,
+    "response_efficiency_percentage": 82,
     "submission_state": "open",
     "url": "https://hackerone.com/clear",
     "website": "https://www.clearme.com/",
@@ -503376,71 +504178,6 @@
           "max_severity": "none"
         }
       ]
-    }
-  },
-  {
-    "allows_bounty_splitting": true,
-    "average_time_to_bounty_awarded": 121.0,
-    "average_time_to_first_program_response": 70.0,
-    "average_time_to_report_resolved": 22095.0,
-    "handle": "moneybird",
-    "id": 0,
-    "managed_program": false,
-    "name": "Moneybird",
-    "offers_bounties": true,
-    "offers_swag": false,
-    "response_efficiency_percentage": 81,
-    "submission_state": "open",
-    "url": "https://hackerone.com/moneybird",
-    "website": "https://www.moneybird.com",
-    "targets": {
-      "in_scope": [
-        {
-          "asset_identifier": "com.moneybird.Moneybird",
-          "asset_type": "APPLE_STORE_APP_ID",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "com.moneybird.android",
-          "asset_type": "GOOGLE_PLAY_APP_ID",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "moneybird.com",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        },
-        {
-          "asset_identifier": "moneybirdstorage.com",
-          "asset_type": "URL",
-          "availability_requirement": "high",
-          "confidentiality_requirement": "high",
-          "eligible_for_bounty": true,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": "high",
-          "max_severity": "critical"
-        }
-      ],
-      "out_of_scope": []
     }
   },
   {
@@ -505002,7 +505739,7 @@
     "name": "Booking.com",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 95,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/bookingcom",
     "website": "http://www.booking.com",
@@ -506069,7 +506806,7 @@
     "name": "FormAssembly",
     "offers_bounties": false,
     "offers_swag": true,
-    "response_efficiency_percentage": 91,
+    "response_efficiency_percentage": 83,
     "submission_state": "open",
     "url": "https://hackerone.com/formassembly",
     "website": "https://www.formassembly.com",
@@ -506960,7 +507697,7 @@
     "name": "Snapchat",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 92,
+    "response_efficiency_percentage": 93,
     "submission_state": "open",
     "url": "https://hackerone.com/snapchat",
     "website": "https://www.snapchat.com/",
@@ -509554,7 +510291,7 @@
     "name": "Greenhouse.io",
     "offers_bounties": true,
     "offers_swag": false,
-    "response_efficiency_percentage": 99,
+    "response_efficiency_percentage": 96,
     "submission_state": "open",
     "url": "https://hackerone.com/greenhouse",
     "website": "https://app.greenhouse.io",
@@ -511434,7 +512171,7 @@
     "name": "Automattic",
     "offers_bounties": true,
     "offers_swag": true,
-    "response_efficiency_percentage": 61,
+    "response_efficiency_percentage": 62,
     "submission_state": "open",
     "url": "https://hackerone.com/automattic",
     "website": "https://automattic.com",
@@ -512185,72 +512922,6 @@
           "eligible_for_bounty": false,
           "eligible_for_submission": false,
           "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        }
-      ]
-    }
-  },
-  {
-    "allows_bounty_splitting": false,
-    "average_time_to_bounty_awarded": null,
-    "average_time_to_first_program_response": 93.0,
-    "average_time_to_report_resolved": 1277.0,
-    "handle": "concretecms",
-    "id": 0,
-    "managed_program": false,
-    "name": "Concrete CMS",
-    "offers_bounties": false,
-    "offers_swag": true,
-    "response_efficiency_percentage": 70,
-    "submission_state": "open",
-    "url": "https://hackerone.com/concretecms",
-    "website": "https://www.concretecms.org",
-    "targets": {
-      "in_scope": [
-        {
-          "asset_identifier": "https://github.com/concrete5/concrete5",
-          "asset_type": "SOURCE_CODE",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": true,
-          "instruction": "",
-          "integrity_requirement": null,
-          "max_severity": "critical"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "asset_identifier": "*.concrete5.org",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "Please send reports of issues with concrete5.org the website to `security@concrete5.org`.\n\nThank you!",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        },
-        {
-          "asset_identifier": "*.concretecms.com",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "Please send reports of issues with concretecms.com the website to `security@concrete5.org`.\n\nThank you!",
-          "integrity_requirement": null,
-          "max_severity": "none"
-        },
-        {
-          "asset_identifier": "*.concretecms.org",
-          "asset_type": "WILDCARD",
-          "availability_requirement": null,
-          "confidentiality_requirement": null,
-          "eligible_for_bounty": false,
-          "eligible_for_submission": false,
-          "instruction": "Please send reports of issues with concretecms.org the website to `security@concrete5.org`.\n\nThank you!",
           "integrity_requirement": null,
           "max_severity": "none"
         }
