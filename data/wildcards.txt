@@ -60,8 +60,6 @@
 *.central.arubanetworks.com
 *.movilepay.com
 *.movilepay.com.br
-*.imperva.com
-*.incapsula.com
 *.indeedflex.com
 *.indeed.tech
 *.indeed.net
@@ -1916,6 +1914,7 @@ info*semtech.com
 *.zurich.com.ar
 *.zurich.com.au
 *.zurich.com.br
+*.zurich.com.cn
 *.zurich.com.hk
 *.zurich.com.my
 *.zurich.com.sg
