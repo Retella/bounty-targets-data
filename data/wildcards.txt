@@ -221,6 +221,7 @@ api-*.soundcloud.com
 *.digital.canada.ca
 *.notification.canada.ca
 *.numerique.canada.ca
+*.bose.io
 *.bose.xx
 *.roke.co.uk
 *.anduril.au
@@ -503,8 +504,11 @@ static*.twilio.com
 *.api.konghq.com
 *.experience.hyland.com
 *.app.hyland.eu
+*.dollar.com
 *.hertz.com
-*hertz.io
+*.hertz.io
+*.oromobility.com
+*.thrifty.com
 *.airaffairs.com.au
 *.naimuri.com
 *.qinetiq.ca
