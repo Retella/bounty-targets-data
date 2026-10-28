@@ -16770,6 +16770,13 @@
           "uri": "https://apps.apple.com/vc/app/moneytree-finance-made-easy/id586847189",
           "name": "Moneytree iOS Mobile Application (production; see below)",
           "ipAddress": null
+        },
+        {
+          "type": "api",
+          "target": "https://mcp-staging.getmoneytree.com/",
+          "uri": "https://mcp-staging.getmoneytree.com/",
+          "name": "MCP Server",
+          "ipAddress": null
         }
       ],
       "out_of_scope": [
@@ -28716,7 +28723,7 @@
   {
     "name": "TheFork Managed Bug Bounty Engagement",
     "url": "https://bugcrowd.com/engagements/thefork-mbb-og",
-    "allows_disclosure": false,
+    "allows_disclosure": true,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 3500,
@@ -32100,6 +32107,13 @@
           "target": "https://www.magicplanetmena.com/",
           "uri": "https://www.magicplanetmena.com/",
           "name": "https://www.magicplanetmena.com/",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://www.pacsun.me/",
+          "uri": "https://www.pacsun.me/",
+          "name": "www.pacsun.me",
           "ipAddress": null
         }
       ],
