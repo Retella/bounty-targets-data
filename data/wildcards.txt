@@ -170,6 +170,7 @@ api-*.soundcloud.com
 *.teslamotors.com
 *.solarcity.com
 *.teslainsuranceservices.com
+*.tools.thefork.tech
 *.thetradedesk.com
 *.adsrvr.org
 *.trello.services
@@ -3390,14 +3391,11 @@ aqora.naiad.*
 *.vtmgo.be
 *.vlerick.com
 *.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
-*.aww.be
 *.water-link.be
-*.mijnwater-link.be
+*.aww.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
