@@ -37379,16 +37379,6 @@ over.fluvius.be
 demo.tendertracker.de
 www.gulp-shop.de
 www.hrs.com
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
 hln.be
 myaccount.hln.be
 www.hln.be
@@ -37689,6 +37679,10 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
