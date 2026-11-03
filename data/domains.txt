@@ -37178,7 +37178,6 @@ www.mini.de
 configure.bmw.de
 configure.mini.de
 konfigurator.bmw-motorrad.de
-challenge-brp.challenges.intigriti.io
 api.bitvavo.com
 bitvavo.com
 www.bpost2.be
@@ -37261,14 +37260,6 @@ hacktoberfest.com
 paperspace.com
 donorbox.org
 www.driessen.nl
-dropbox.com
-sign.dropbox.com
-hellosign.com
-dash.ai
-api.dropbox.com
-hellofax.com
-docsend.com
-app.reclaim.ai
 www.staatsloterij.nederlandseloterij.nl
 www.krasloten.nederlandseloterij.nl
 www.eurojackpot.nederlandseloterij.nl
