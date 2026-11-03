@@ -615,6 +615,7 @@ businessportal.origin.com.au
 api-businessportal.origin.com.au
 www.osl.com
 atlassian.ost-consulting.be
+dashboard.pantheon.io
 www.pexels.com
 api.pinterest.com
 microsoftedge.microsoft.com
@@ -23650,6 +23651,7 @@ codemeter-test.services.wirtgen-group.com
 codemeter.services.wirtgen-group.com
 codepush.dev.myvirtualsuper.com
 codepush.prod.myvirtualsuper.com
+cogi-ai-srv.ghns-web-platform-prod-standalone4.us.e00.c01.johndeerecloud.com
 compass.deere.com
 conecta.agrishow.deere.com.br
 conexpo.deere.com
@@ -23790,6 +23792,7 @@ displaysimulator-cert.deere.com
 displaysimulator.deere.com
 divops-mcp.deere.com
 dlrdoc.deere.com
+dmc.johndeere.com
 dmd.deere.com
 dmz01.fw01.interfaces.news.kleemann.info
 dns1.kleemann.info
@@ -24112,6 +24115,7 @@ jdsn-cart-qual.deere.com
 jdsn-contactus-api-v2.deere.com
 jdsn-creditmemo.deere.com
 jdsn-crs.deere.com
+jdsn-grr-api.deere.com
 jdsn-tcs.deere.com
 jdsn.deere.com
 jduetc.deere.com
@@ -24945,6 +24949,7 @@ wap.pla.com.br
 wap.unimil.com.br
 warehouseinsights-qual.deere.com
 warehouseinsights.deere.com
+warrantyelb.apps-qual-vpn.us.e06.c01.johndeerecloud.com
 warrantysystemdevl.deere.com
 web.surefireag.com
 web.wirtgenankara.com.tr
@@ -37339,16 +37344,6 @@ over.fluvius.be
 demo.tendertracker.de
 www.gulp-shop.de
 www.hrs.com
-registry.service.api.platform.here.com
-search.hereapi.com
-transit.hereapi.com
-vector.hereapi.com
-mobilitygraph.hereapi.com
-account.api.here.com
-account.here.com
-listing.here.com
-mapcreator.here.com
-xyz.api.here.com
 hln.be
 myaccount.hln.be
 www.hln.be
