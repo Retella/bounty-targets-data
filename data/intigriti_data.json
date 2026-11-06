@@ -597,6 +597,337 @@
     }
   },
   {
+    "id": "6f24c2d0-b1f2-4c31-948d-eeba16e80099",
+    "name": "Attentia VDP",
+    "company_handle": "attentia",
+    "handle": "attentiavdp",
+    "url": "https://www.intigriti.com/programs/attentia/attentiavdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "wildcard",
+          "endpoint": "*.attentia.be",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "ios",
+          "endpoint": "Attie by Attentia - IOS",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "ios",
+          "endpoint": "My Attentia - IOS",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "android",
+          "endpoint": "Attie by Attentia - Android",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "android",
+          "endpoint": "My Attentia - Android",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
+    "id": "933f224e-fbd3-4f08-a4fb-5038c2fa1a6e",
+    "name": "Axel Springer National Media & Tech",
+    "company_handle": "axelspringerse",
+    "handle": "nmt",
+    "url": "https://www.intigriti.com/programs/axelspringerse/nmt/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 15,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2500,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "newsos.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "politico.eu",
+          "description": "politico.eu covers politics with a European lens, featuring Berlin Playbook briefings and POLITICO Pro analysis.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "adtechnology.axelspringer.com",
+          "description": "technical domain used for advertising management on our brand websites.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.asadcdn.com",
+          "description": "technical domain used for advertising management on our brand websites.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "bild.de",
+          "description": "BILD is Germany's largest tabloid newspaper.\nYou can find Tier 1 subdomains, as well as a Tier 2 wildcard subdomain.\nYou are welcome to create your own account and test our system.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "welt.de",
+          "description": "Large german broadsheet newspaper. \n\nYou can find Tier 1 subdomains, as well as a Tier 2 wildcard subdomain.\nYou are welcome to create your own account and test our system.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "epaper.welt.de",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "cancellation.prod.ps.welt.de",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "digital.welt.de",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "signin.auth.welt.de",
+          "description": null,
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "m.bild.de",
+          "description": "The mobile version of BILD.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.hey.bild.de",
+          "description": "Hey_ is a Chat Assistent offered by BILD.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "go.welt.de",
+          "description": "Welt Go a Chat Assistent offered by WELT.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.auth.bild.de",
+          "description": "Login/registration for BILD.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.sportbild.de",
+          "description": "German sports magazine from BILD.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "url",
+          "endpoint": "meinkonto.bild.de",
+          "description": "The account setting of a BILD user.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.bild.tv",
+          "description": "This is the livestream of the Bild television channel.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.computerbild.de",
+          "description": "Is a magazine  with the topic computer from Bild. \nSome examples of subdomains are\n- vip-club.computerbild.de (VIP club)\n- signin.auth.computerbild.de (login) \n\nother interesting paths \n- computerbild.de/download (download center)\n\nYou are also welcome to create your own account to test our system.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "iprange",
+          "endpoint": "18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39",
+          "description": "IP addresses of our backend systems, comma separated.",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "dealer.prod.ps.axelspringer.de/purchases/*",
+          "description": "Documentation: https://dealer-docs.prod.ps.axelspringer.de/",
+          "impact": "Tier 1"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.germany.politico.eu",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.welt.de",
+          "description": "Large german broadsheet newspaper. \n\nYou are also welcome to create your own account to test our system.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.bild.de",
+          "description": "Bild is the largest German tabloid newspaper. \nSome examples of subdomains are \n- angebot.bild.de (offers)\n\nYou are also welcome to create your own account to test our system.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.bild.design",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.autobild.de",
+          "description": "Is a magazine  with the topic cars from Bild. \nSome examples of subdomains\n- club.autobild.de\n\nYou are also welcome to create your own account to test our system.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.bz-berlin.de",
+          "description": "Berlin based tabloid newspaper. \nSome examples of subdomains \n- backend.bz-berlin.de",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.spring-media.de",
+          "description": "Used for internal tools, mostly behind a VPN.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.springtools.de",
+          "description": "Used for internal tools, mostly behind a VPN.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "editorial.one",
+          "description": "Used for internal tools, mostly behind a VPN.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.as-nmt.de",
+          "description": "Used for internal api's and websites, mostly behind a VPN.",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.ein-herz-fuer-kinder.de",
+          "description": "Charity organisation for children in Germany.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.fitbook.de",
+          "description": "Magazine focusing on fitness topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.myhomebook.de",
+          "description": "Magazine focusing on home and garden topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.petbook-magazine.com/",
+          "description": "English version of the petbook.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.petbook.de",
+          "description": "Magazine focusing on pet topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.stylebook.de",
+          "description": "Magazine focusing on style topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.techbook.de",
+          "description": "Magazine focusing on tech topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.travelbook.de",
+          "description": "Magazine focusing on travel topics.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.wissen-sie-mehr.de",
+          "description": "Whistleblower form from BILD.",
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "technik.autobild.de",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "technik.beta.autobild.de",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "wildcard",
+          "endpoint": "*.axelspringer.com",
+          "description": "This domain is covered by our partner program. \nhttps://app.intigriti.com/programs/axelspringerse/axelspringersevulnerabilitydisclosureprogram/detail",
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
     "id": "bdbdcb88-3242-4d0b-8926-38775bd262bf",
     "name": "Axel Springer SE Vulnerability Disclosure Program",
     "company_handle": "axelspringerse",
@@ -4749,6 +5080,168 @@
     }
   },
   {
+    "id": "e85b4b33-7785-43b5-a5aa-5bcd226688b4",
+    "name": "Here Technologies",
+    "company_handle": "heretechnologies",
+    "handle": "heretechnologies",
+    "url": "https://www.intigriti.com/programs/heretechnologies/heretechnologies/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 2000,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "ios",
+          "endpoint": "HERE WeGo iOS",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "android",
+          "endpoint": "HERE WeGo Android",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "registry.service.api.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.data.api.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.metrics.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.platform.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "search.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "transit.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "vector.hereapi.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mobilitygraph.hereapi.com",
+          "description": "Including, but not limited to, following applications:\nhttps://predictor.mobilitygraph.hereapi.com/\nhttps://profile.mobilitygraph.hereapi.com/\nhttps://subscription.mobilitygraph.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.router.hereapi.com",
+          "description": "Including, but not limited to, following applications:\nhttps://matrix.router.hereapi.com/\nhttps://subp-als.matrix.router.hereapi.com/v8/matrix\nhttps://transit.router.hereapi.com/\nhttps://intermodal.router.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.subp-router.hereapi.com",
+          "description": "Including, but not limited to, following application:\nhttps://vip-als.subp-router.hereapi.com/",
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.hereapi.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "account.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "listing.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "mapcreator.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "xyz.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.scbe.api.here.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.here.com",
+          "description": null,
+          "impact": "Tier 3"
+        },
+        {
+          "type": "other",
+          "endpoint": "Leaked/Compromised Employee Credentials",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "Leaked Service Credentials",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "other",
+          "endpoint": "All other related services owned by HERE",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": []
+    }
+  },
+  {
     "id": "5c7a8f79-a23b-4367-a2c6-63a2d48586ee",
     "name": "Het Laatste Nieuws",
     "company_handle": "dpgm",
@@ -6328,6 +6821,85 @@
         {
           "type": "url",
           "endpoint": "shop.kinepolis.lu",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
+    }
+  },
+  {
+    "id": "b98261a6-2339-4325-b00b-008e24b28e88",
+    "name": "Kiwa Vulnerability Disclosure Program",
+    "company_handle": "kiwa",
+    "handle": "kiwavdp",
+    "url": "https://www.intigriti.com/programs/kiwa/kiwavdp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 0,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwa.com",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwaimpact.com",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwa.info",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwa.nl",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwa.se",
+          "description": null,
+          "impact": "No Bounty"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.kiwa.no",
+          "description": null,
+          "impact": "No Bounty"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "url",
+          "endpoint": "https://careers.kiwa.com/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://qr.kiwa.com/",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "https://www.kiwa.com/en/contact/",
           "description": null,
           "impact": "Out of scope"
         }
@@ -14011,145 +14583,6 @@
           "type": "other",
           "endpoint": "Third-party systems or domains referencing Voi",
           "description": "Before testing or reporting a vulnerability, confirm that the target asset is owned or managed by Voi. When in doubt, we strongly encourage you to verify the asset's ownership through the program team to avoid unintentional testing of third-party systems.",
-          "impact": "Out of scope"
-        }
-      ]
-    }
-  },
-  {
-    "id": "afc4415d-c004-4cf8-9a12-e0f18cde6db5",
-    "name": "WP Engine Bug Bounty",
-    "company_handle": "wpengine",
-    "handle": "wpenginebugbounty",
-    "url": "https://www.intigriti.com/programs/wpengine/wpenginebugbounty/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 0,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 2500,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "https://app.getflywheel.com",
-          "description": "This is the primary site for researchers to register and test both the Flywheel App as well as the Flywheel Platform. We will not provide credentials or bypass verification controls (i.e, a researcher will need to either provide a valid phone number or credit card to have a live site), but a researcher may register a demo site that matches the platform's functionality without verification. **Please use your Intigriti credentials to register.** Please note that any issues regarding an individual WordPress installation on the Flywheel platform, outside of plugins owned by WP Engine/Flywheel, will be considered out of scope as we do not monitor or manage customer content. We are, however, very interested in issues that may compromise customer isolation on the platform or cause data to be leaked from either a host or an unrelated customer site.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://getflywheel.com",
-          "description": "This site is the landing page for Flywheel-branded services. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and chat functionality are out-of-scope - specifically, the Sales Questions functionality or https://getflywheel.com/schedule-a-demo/. No testing should be done against these targets or any 3rd party services. Please do not contact our Support or Sales teams as part of your testing.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://my.wpengine.com",
-          "description": "The User Portal for WP Engine. Customers manage their WordPress sites, addons, and billing details through this portal. **No credentials will be provided**. Researchers are free to test functionally that requires authentication with their own accounts. Please note: no reimbursements will be made for money spent to access this part of the application.\n\nResearchers may sign up for a free trial of our Headless Platform which provides full access to the User Portal and WP Engine platform for testing.  The trial signup page can be found at https://wpengine.com/headless-wordpress/ .  Please use your Intigriti researcher email address when signing up.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://payments.wpengine.com",
-          "description": null,
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://wpengine.com",
-          "description": "This the landing page for the main WP Engine website. Most of this data is static, but there are a number of dynamic fields and functionalities that are available to be tested. Support, contact forms, and Live Chat are out-of-scope - specifically, the Sales Questions functionality and https://wpengine.com/contact/. No testing should be done against these targets or any 3rd party services.\n\n**Please Note:** All customer sites on subdomains of wpengine.com, unless explicitly listed as in scope, are out of scope.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*. advancedcustomfields.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*. bettersearchreplace.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.deliciousbrains.com",
-          "description": null,
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.localwp.com",
-          "description": "Local is the #1 local WordPress development tool.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.nitropack.io",
-          "description": "With NitroPack, you get everything you need for a fast website, in one place. Features like caching, image optimization, and a CDN are ready to go out of the box.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.studiopress.com",
-          "description": "The studiopress.com, demo.studiopress.com, and my.studiopress.com sites are public facing marketing and WordPress theme e-commerce sites. **No credentials will be provided.** Researchers are free to test functionally that requires authentication with their own accounts.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.wpengine.io",
-          "description": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.wpesvc.net",
-          "description": "This is an apex domain used for microservices hosted as subdomains and service-to-service APIs - these are intended to be \"internal\" services like APIs but have public DNS records and some may be publicly-accessible.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "other",
-          "endpoint": "WP Engine-developed WordPress Plugins and Themes",
-          "description": "We accept any reports of vulnerabilities in plugins or themes managed or developed by WP Engine, with the exception of any application-level vulnerabilities in the Out of Scope section below.  These free versions closely mirror their paid counterparts, so any vulnerabilities discovered should be applicable to both the paid or free plugins.\n\nWe also accept reports for the following plugins:\nAdvanced Custom Fields\nBetter Search Replace \nWP Migrate\nWP Offload Media for Amazon S3, DigitalOcean Spaces, and Google Cloud Storage\nWP Offload SES",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://makeshift.film",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://studiopress.blog",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://torquemag.io",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "https://velocitize.com",
-          "description": "This domain is deprecated and bounties are no longer paid.",
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "marketing.nitropack.io",
-          "description": "This asset is hosted at a third-party vendor and is not eligible for bounties.",
           "impact": "Out of scope"
         }
       ]

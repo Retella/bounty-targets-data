@@ -1312,7 +1312,7 @@
     "disabled": false,
     "managed": null,
     "min_bounty": 50,
-    "max_bounty": 2500,
+    "max_bounty": 2000,
     "targets": {
       "in_scope": [
         {
@@ -1606,23 +1606,11 @@
           "type": "other"
         },
         {
-          "target": "jp.harmanaudio.com",
-          "type": "other"
-        },
-        {
-          "target": "jp.jbl.com",
-          "type": "other"
-        },
-        {
           "target": "https://devicedb.roonlabs.net/1/devicedb-*.zip",
           "type": "other"
         },
         {
           "target": "https://secondchance.jbl.com",
-          "type": "other"
-        },
-        {
-          "target": "https://pl.jbl.com",
           "type": "other"
         }
       ]
@@ -4201,7 +4189,7 @@
     "targets": {
       "in_scope": [
         {
-          "target": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-55",
+          "target": "https://dojo-yeswehack.com/challenge-of-the-month/dojo-56",
           "type": "web-application"
         }
       ],
