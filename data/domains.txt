@@ -35358,6 +35358,12 @@ notes.services.box.com
 upload.box.com
 my.stripo.email
 stripo.email
+emerald.oasis.dev
+grpc.oasis.dev
+rosetta.oasis.dev
+sapphire.oasis.io
+status.oasis.io
+wallet.oasis.io
 app.lemcal.com
 app.lemlist.com
 app.lemwarm.com
@@ -37641,6 +37647,10 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
+auth2.pdq.com
+library.pdq.com
+portal.pdq.com
+app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
