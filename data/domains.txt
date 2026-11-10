@@ -12441,7 +12441,6 @@ admin-myamex-uat-e2-in.fiserv.io
 admin-myamex-uat-in.fiserv.io
 admin.bypassmobile.com
 admin.fiserv.com
-admin.gyft.com
 admin.securehostedpayments.com
 admin.thepineapplestage.com
 admin7.thepayplace.com
@@ -37661,10 +37660,6 @@ liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
-auth2.pdq.com
-library.pdq.com
-portal.pdq.com
-app.pdq.com
 hstconboarding.peoplecert.org
 atv.peoplecert.org
 selt.languagecert.org
@@ -37912,15 +37907,11 @@ report.voi.com
 voi.com
 app.getflywheel.com
 getflywheel.com
-my.wpengine.com
-payments.wpengine.com
-wpengine.com
-makeshift.film
-studiopress.blog
-torquemag.io
-velocitize.com
 nitropack.io
+my.wpengine.com
 spressforumstg.wpengine.com
+studiopress.blog
+wpengine.com
 water-link-jaarverslag.be
 www.watsons.com.hk
 www10.watsons.com.hk

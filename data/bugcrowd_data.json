@@ -10556,7 +10556,7 @@
   {
     "name": "HPE Networking Product Public Program",
     "url": "https://bugcrowd.com/engagements/hpe-networking-product-public",
-    "allows_disclosure": false,
+    "allows_disclosure": true,
     "managed_by_bugcrowd": true,
     "safe_harbor": "full",
     "max_payout": 5000,
@@ -18512,6 +18512,13 @@
           "target": "https://platform.openai.com/playground",
           "uri": "https://platform.openai.com/playground",
           "name": "Developer Platform Playground",
+          "ipAddress": null
+        },
+        {
+          "type": "website",
+          "target": "https://chatgpt.com/dots/",
+          "uri": "https://chatgpt.com/dots/",
+          "name": "ChatGPT Dots",
           "ipAddress": null
         },
         {
