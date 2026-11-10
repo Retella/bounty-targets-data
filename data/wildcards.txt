@@ -1587,13 +1587,10 @@ test*.redoxengine.com
 *.oklink.com
 *.okx.com
 *.happening.dev
-*.luckydays.ca
-*.luckydays.com
 *.napoleoncasino.be
 *.napoleondice.be
 *.napoleongames.be
 *.napoleonsports.be
-*.spinaway.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -2522,8 +2519,6 @@ www.amazon.*
 *.worklytics.co
 *.skyhighsecurity.com
 *.trellix.com
-*.sprint.apps.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.airstar-finance.com
 *.airstar.com
 *.airstarfinance.net
@@ -3211,6 +3206,7 @@ www.fing.com*
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
+*.lansweeper.com
 *.libelle.nl
 *.liferay.com
 *.marionnaud.fr
@@ -3395,10 +3391,6 @@ aqora.naiad.*
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
-*.weareone.world
-*.stag.tomorrowland.com
-*.stag.weareone.world
-*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
@@ -3416,9 +3408,6 @@ aqora.naiad.*
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.unibas.ch
-*.topperpay.com
-*.optimuscards.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.vlerick.com
