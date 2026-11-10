@@ -3391,6 +3391,10 @@ aqora.naiad.*
 *.rallyforrestaurant.com
 *.ibizdna.com
 *.rallyforestaurants.com
+*.weareone.world
+*.stag.tomorrowland.com
+*.stag.weareone.world
+*.tomorrowland.com
 *.trouw.nl
 *.truelayer.com
 *.zimpler.net
@@ -3408,11 +3412,13 @@ aqora.naiad.*
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.unibas.ch
+*.topperpay.com
+*.optimuscards.com
+*.uphold.com
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.vlerick.com
-*.voi.com
-*.voiscooters.com
 *.deliciousbrains.com
 *.studiopress.com
 *.wpengine.io
