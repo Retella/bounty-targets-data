@@ -2920,6 +2920,7 @@ www.paypal-*.com
 *.shopifycloud.com
 *.shopifycs.com
 *.shopifykloud.com
+*.shopifysvc.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -3412,9 +3413,6 @@ aqora.naiad.*
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.unibas.ch
-*.topperpay.com
-*.optimuscards.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
