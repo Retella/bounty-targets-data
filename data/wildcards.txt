@@ -1758,6 +1758,7 @@ test*.redoxengine.com
 *.sign.plus
 *.arc.io
 *.hilton.com
+*.hilton.com.cn
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
@@ -2751,6 +2752,7 @@ www.paypal-*.com
 *.skypoker.com
 *.skyvegas.com
 *.sportinglife.com
+*.bitmex.com
 *.adaptive-shield.com
 *.bionic.ai
 *.crowdstrike.com

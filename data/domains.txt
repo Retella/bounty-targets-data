@@ -4180,10 +4180,13 @@ xtractresearch.com
 xtractresearch.net
 xtractsubscriber.net
 accountshomolog.acesso.io
+api.humantoken.unico.app
 backend-sdk.uat.private.unico.run
 blog.unico.io
-devcenter.unico.io
+dashboard.unico.app
+developer.unico.io
 sdk-h1.unico.io
+humantoken.unico.app
 idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
@@ -36504,6 +36507,8 @@ www.toyotafinancialpr.com
 www.toyotamobility.com
 www.trdusa.com
 www.utility.gac.toyota.com
+testnet.bitmex.com
+www.bitmex.com
 falcon-sandbox.com
 hybrid-analysis.com
 sgnl.ai
