@@ -36781,8 +36781,6 @@ id.portswigger.net
 links.portswigger.net
 portswigger.net
 share.portswigger.net
-rubygems.org
-shipit.rubygems.org
 app.files.com
 www.files.com
 your-assigned-subdomain.files.com
@@ -37082,7 +37080,6 @@ xadsacademy.com
 api.cloudflare.com
 cloudflareworkers.com
 dash.cloudflare.com
-php-rce.cloudflare.app
 one.dash.cloudflare.com
 akismet.com
 api.tumblr.com
@@ -37906,16 +37903,6 @@ login.arkane.network
 login.venly.io
 wallet.venly.io
 api-wallet-sandbox.venly.io
-alchemy.veriff.com
-api.flamingo-eu.veriff.com
-api.us.veriff.me
-api.veriff.me
-louvre.veriff.me
-magic.veriff.me
-station.veriff.com
-stationapi.veriff.com
-developers.veriff.me
-www.veriff.com
 viper.uat.vlerick.com
 www-tst.vlerick.com
 app.getflywheel.com
