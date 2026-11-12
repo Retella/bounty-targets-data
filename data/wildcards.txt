@@ -3104,6 +3104,7 @@ www.paypal-*.com
 *.dpgmedia.be
 *.dpgmedia.nl
 *.dashlane.com
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -3210,7 +3211,6 @@ www.fing.com*
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
-*.lansweeper.com
 *.libelle.nl
 *.liferay.com
 *.marionnaud.fr
@@ -3423,8 +3423,9 @@ aqora.naiad.*
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
-*.water-link.be
 *.aww.be
+*.water-link.be
+*.mijnwater-link.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
