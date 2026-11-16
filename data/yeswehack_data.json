@@ -300,6 +300,49 @@
     }
   },
   {
+    "id": "boursobank-bug-bounty-program",
+    "name": "BoursoBank Bug Bounty Program",
+    "public": true,
+    "disabled": false,
+    "managed": null,
+    "min_bounty": 50,
+    "max_bounty": 3000,
+    "targets": {
+      "in_scope": [
+        {
+          "target": "https://play.google.com/store/apps/details?id=com.boursorama.android.clients",
+          "type": "mobile-application-android"
+        },
+        {
+          "target": "https://apps.apple.com/fr/app/boursobank/id425368900",
+          "type": "mobile-application-ios"
+        },
+        {
+          "target": "api.boursobank.com",
+          "type": "api"
+        },
+        {
+          "target": "clients.boursobank.com",
+          "type": "web-application"
+        },
+        {
+          "target": "tradingboard.boursobank.com",
+          "type": "web-application"
+        },
+        {
+          "target": "www.boursobank.com",
+          "type": "web-application"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "target": "All domains or subdomains not listed in the above list of 'Scopes'",
+          "type": "other"
+        }
+      ]
+    }
+  },
+  {
     "id": "bug-bounty-program-blablacar",
     "name": "Bug Bounty Program - BlaBlaCar",
     "public": true,
@@ -345,37 +388,6 @@
         },
         {
           "target": "Finally, fraud related reports are out-of-scope if they do not exploit a security vulnerability. Therefore, fraud activity enabled by bug or incomplete business rules enforcement are out-of-scope.  However, a fraud activity enabled by a CSRF exploit for example is valid.",
-          "type": "other"
-        }
-      ]
-    }
-  },
-  {
-    "id": "cryptobox-bug-bounty",
-    "name": "Cryptobox",
-    "public": true,
-    "disabled": false,
-    "managed": null,
-    "min_bounty": 100,
-    "max_bounty": 5000,
-    "targets": {
-      "in_scope": [
-        {
-          "target": "https://bounty.cryptobox.com",
-          "type": "web-application"
-        },
-        {
-          "target": "https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr",
-          "type": "mobile-application-android"
-        },
-        {
-          "target": "https://apps.apple.com/fr/app/cryptobox/id972602802",
-          "type": "mobile-application-ios"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "target": "Testing any other system than https://bounty.cryptobox.com, in particular admin.bounty.cryptobox.com, *.cryptobox.com or *.ercom.fr.",
           "type": "other"
         }
       ]
@@ -797,7 +809,7 @@
           "type": "other"
         },
         {
-          "target": "Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com)",
+          "target": "Craft CMS on www.siilo.com, plus siilo.com marketing / staging sub-domains (l.siilo.com, l-dev.siilo.com, web.siilo.com, web-dev.siilo.com, www-admin.siilo.com, mjt-dev.siilo.com, att-dev-nl.siilo.com, sandbox-nl.siilo.com, connect.siilo.com, prod-nl-web.siilo.com, connect.doctolib.com)",
           "type": "other"
         },
         {
@@ -1312,7 +1324,7 @@
     "disabled": false,
     "managed": null,
     "min_bounty": 50,
-    "max_bounty": 2000,
+    "max_bounty": 2500,
     "targets": {
       "in_scope": [
         {
@@ -3661,6 +3673,10 @@
         }
       ],
       "out_of_scope": [
+        {
+          "target": "vdp.telenor.se",
+          "type": "other"
+        },
         {
           "target": "*.bbcust.telenor.se",
           "type": "other"

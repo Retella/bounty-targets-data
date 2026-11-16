@@ -703,9 +703,6 @@ webapp.simplisafe.com
 webapp.simplisafe.co.uk
 mfa.simplisafe.com
 media.simplisafe.com
-simplisafe.com
-simplisafe.co.uk
-api.prd.commerce.simplisafe.com
 www.skroutz.gr
 gateway.skyscanner.net
 skyscanner.net
@@ -1522,6 +1519,7 @@ essitybrandworld.essity.com
 essityusa.com
 extranet.hms.essity.co.za
 globalmediabank.essity.com
+higieneinclusivatork.mx
 infohub.app.essity.com
 infohub.essity.com
 jobst-austria.at
@@ -2138,6 +2136,8 @@ status.hackthebox.com
 labs.hackthebox.com
 admin.meeshosupply.com
 affiliate.meesho.com
+console.valmo.in
+grocery-supplier.meesho.com
 investor.meesho.com
 meesho.io
 superstoreapp.meesho.com
@@ -4972,8 +4972,6 @@ dicey.com
 kronor.io
 ais.usvisa-info.com
 casadmin.peckham.org
-my.sheer.com
-www.sheer.com
 apix.vodafone.om
 vfo01.vodafone.om
 vfo02.vodafone.om
@@ -23670,6 +23668,7 @@ connect2.deere.com
 connections.deere.com
 contact.bluerivertechnology.com
 contest.deere.com
+context-flow-preview.lifecycle-management-devl-vpn.us.e20.c01.johndeerecloud.com
 copaamarela.com
 core.surefireag.com
 core.surepointag.com
@@ -36763,6 +36762,7 @@ aff.capital.com
 go.capital.com
 register.capital.com
 careers.capital.com
+challenge-1126.intigriti.io
 livechat.citymesh.com
 auth.citymesh.com
 extra.citymesh.com
@@ -36785,6 +36785,14 @@ surfenzonderzorgen.safeonweb.be
 award.cybersecuritycoalition.be
 blog.cybersecuritycoalition.be
 www.cybersecuritycoalition.be
+profiles-api.datacamp.com
+app.datacamp.com
+assessment-api.datacamp.com
+assessment.datacamp.com
+campus.datacamp.com
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
 myaccount.demorgen.be
 www.demorgen.be
 myaccount.volkskrant.nl
@@ -37208,6 +37216,12 @@ atv.peoplecert.org
 selt.languagecert.org
 www.languagecert.org
 www.peoplecert.org
+api.personio-dev.com
+api.personio.com
+hug.personio.com
+www.personio.com
+www.personio.de
+community.personio.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api.portofantwerp.com
@@ -37517,7 +37531,10 @@ www.bookbeat.com
 api.bookbeat.com
 search-api.bookbeat.com
 edge.bookbeat.com
-bounty.cryptobox.com
+api.boursobank.com
+clients.boursobank.com
+tradingboard.boursobank.com
+www.boursobank.com
 cyberghost.com
 cyberghost.app
 api.cyberghostvpn.com
