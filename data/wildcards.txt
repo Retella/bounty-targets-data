@@ -90,6 +90,11 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com
 *.myfitnesspal.com
 *.nr-data.net
 *.nr-ops.net
+*.nordvpn.com
+*.nordpass.com
+*.nordlocker.com
+*.nordaccount.com
+*.nordcheckout.com
 *.nml.com
 *.nmfn.com
 prod-*.nubank.com.br
@@ -2909,6 +2914,8 @@ www.paypal-*.com
 *.tstaging.com
 *.tstaging.tools
 *.fetlife.com
+*.algolia.net
+*.algolianet.com
 *.grab-sure.com
 *.grab.co
 *.grab.com
