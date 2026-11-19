@@ -1762,6 +1762,7 @@ test*.redoxengine.com
 *.mystreetscape.com
 *.streetscape.com
 *.wealthscape.com
+*.dial.plus
 *.fax.plus
 *.sign.plus
 *.arc.io
@@ -3220,6 +3221,7 @@ www.fing.com*
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
+*.lansweeper.com
 *.libelle.nl
 *.liferay.com
 *.marionnaud.fr
@@ -3488,8 +3490,6 @@ storage*.infomaniak.com
 *.api.vimla.se
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
-*.play.ownit.se
-*.stream.telenor.se
 *.vidaxl.org
 *.vidaxl.io
 *.vidaxl.net
