@@ -4227,8 +4227,9 @@ xtractresearch.net
 xtractsubscriber.net
 accountshomolog.acesso.io
 api.humantoken.unico.app
+backend-sdk.prod.private.unico.run
 backend-sdk.uat.private.unico.run
-blog.unico.io
+cadastro.unico.app
 dashboard.unico.app
 developer.unico.io
 sdk-h1.unico.io
@@ -4412,6 +4413,7 @@ sipvs-ca.ccid.neustar.biz
 smtp-test.truoptik.com
 solutions.transunion.co.uk
 sompoh-crivoapi.crivo.com.br
+sontiq.com
 srp-idtheft.com
 stagingwpm.neustar.biz
 transunion.com
@@ -23553,6 +23555,7 @@ apiprod-smoke.deere.com
 apisecurity.deere.com
 apistaging.sentera.com
 apistaging2.sentera.com
+apollo-academy.jdf-dataenabl-qual-vpn.us.e10.c01.johndeerecloud.com
 app-pulse.deere.com
 app.agrisync.com
 app.expertconnect.deere.com
@@ -23682,6 +23685,7 @@ cfscf.deere.com
 changelog.harvestprofit.com
 changepass.wirtgen-group.com
 changepassword.kreiselelectric.com
+channel-ai-solutions.deere.com
 ciber.com.br
 ciber.wirtgen-group.com
 cicqual.tal.deere.com
@@ -24668,6 +24672,7 @@ selector2._domainkey.wirtgen-external.com
 selector2._domainkey.wirtgen-group.com
 selector2._domainkey.wirtgen.de
 self-dev.services.wirtgen-group.com
+self-service.deere.com
 self.services.wirtgen-group.com
 serv.mfg-ncca-migration-prod-vpn.us.e11.c01.johndeerecloud.com
 service-api.expertconnect.deere.com
@@ -25499,7 +25504,10 @@ ftp1.fcimg.com
 gbr-rgw-crw-nhwbvqmjjt.dynamic-m.com
 ghe.drs.com
 gitlab.balldayton.com
+gp.survice.com
 gp.validatek.com
+gpc.survice.com
+gpm.survice.com
 gpvpn.ballaerospace.com
 hdscasxfer.us.baesystems.com
 hh-nh11-fsw009.us.baesystems.com
@@ -25531,6 +25539,8 @@ lifecycleone.ext.us.baesystems.com
 loki.pitch.se
 mail.apogeeworx.com
 mail.pitch.se
+mail3.survice.com
+mail4.survice.com
 morpheus.usgcns.net
 mysupport.us.baesystems.com
 n8n.drs.com
@@ -25544,6 +25554,7 @@ oscar.apogeeworx.com
 outlook.pitch.se
 owa.pitch.se
 pitchse-tvkcgqggkr.dynamic-m.com
+pki.survice.com
 pki.us.baesystems.com
 pleasereview-staging.us.baesystems.com
 pleasereview.us.baesystems.com
@@ -25607,7 +25618,11 @@ workspace.ballaerospace.com
 www.coalfirefederal.com
 www.elevi.net
 www.irsp.com
+www.jasp-online.org
 www.nucleussec.com
+www.survice.com
+www.survpath.com
+www.warriorsonthegreen.org
 www2.pitch.se
 zeusapps.usgcns.net
 zeusfts.usgcns.net
@@ -25895,6 +25910,7 @@ register-test.myngc.com
 register.myngc.com
 relayeast.northgrum.com
 relaywest.northgrum.com
+remote.survice.com
 remoteaccess.northropgrumman.com
 reports.benefits.northgrum.com
 rosebud.ca.essd.northgrum.com
@@ -36461,6 +36477,8 @@ my.clearme.com
 scan.clearme.com
 web-edge.clearme.com
 www.clearme.com
+moneybird.com
+moneybirdstorage.com
 www.coursera.org
 www.udemy.com
 yourcompany.udemy.com
@@ -37248,18 +37266,6 @@ nexo.com
 mynexuz.be
 liquidfiles.nexuzhealth.com
 idp-url.nexuzhealth.be
-analytics.ninjakiwi.com
-api.ninjakiwi.com
-guts.ninjakiwi.com
-battles.tv
-data.ninjakiwi.com
-ninja.kiwi
-ninjakiwi.com
-alerts.ninjakiwi.com
-boomer2.ninjakiwi.com
-ct.ninjakiwi.com
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 associatie.kuleuven.be
 webwsp.aps.kuleuven.be
 auth2.pdq.com
