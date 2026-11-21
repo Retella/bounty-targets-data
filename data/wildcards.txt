@@ -3201,6 +3201,15 @@ www.fing.com*
 *.werkenbijkarwei.nl
 *.karweioutletstore.nl
 *.latchapp.com
+*.klubcinema.fr
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kiwa.com
 *.kiwaimpact.com
 *.kiwa.info
@@ -3572,9 +3581,8 @@ aqora.naiad.*
 *.studiopress.com
 *.wpengine.io
 *.wpesvc.net
-*.aww.be
 *.water-link.be
-*.mijnwater-link.be
+*.aww.be
 *.watsons.com.hk
 *.watsons.co.th
 *.watsons.com.tw
