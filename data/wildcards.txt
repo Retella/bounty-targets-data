@@ -72,16 +72,6 @@
 *.klaviyo-dev.com
 *.clovesoftware.com
 *.clovesoftware-dev.com
-*.genoapay.co.nz
-*.genoapay.com
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudepay.com.au
-*.latitudepay.com
-*.dev.*.lfscnp.com
-*.sandbox.*.lfscnp.com
-*.-np.*.lfscnp.com
 *.linktree-extensions.com
 *.plannthat.com
 *.lululemon.com
@@ -376,7 +366,6 @@ static*.twilio.com
 *.notyourmothers.com
 *.nymbrands.com
 *.nymhair.co.uk
-*.opx.tc
 *.osiatlowes.com
 *.pattex.*
 *.pattex.com.cn
@@ -1386,10 +1375,6 @@ www.lazada.*sixcountry
 *.xtractlatam.com
 *.xtractresearch.net
 *.xtractsubscriber.net
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
 *.uat.unico.app
 *.tomtom-global.com
 *.tomtom.com
@@ -2495,6 +2480,7 @@ www.amazon.*
 *.boavistaservicos.com.br
 *.bvsnet.com.br
 *.certificadoboavista.com.br
+*.creditapps.com.au
 *.decisionpoint3.com
 *.equifax.cr
 *.fraudday.com
