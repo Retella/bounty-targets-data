@@ -1375,7 +1375,6 @@ www.lazada.*sixcountry
 *.xtractlatam.com
 *.xtractresearch.net
 *.xtractsubscriber.net
-*.uat.unico.app
 *.tomtom-global.com
 *.tomtom.com
 *.tomtomgroup.com
@@ -2971,6 +2970,8 @@ www.paypal-*.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
 *.allegro.sk.allegrosandbox.pl
+*.reserveamerica.com
+*.aspirafocus.com
 *.attentia.be
 *.asadcdn.com
 *.hey.bild.de
@@ -3555,9 +3556,6 @@ aqora.naiad.*
 *idp*.uzleuven.be
 *stag*.uzleuven.be
 *.unibas.ch
-*.topperpay.com
-*.optimuscards.com
-*.uphold.com
 *.vtm.be
 *.vtmgo.be
 *.vlerick.com
