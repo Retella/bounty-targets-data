@@ -90,6 +90,7 @@ bugcrowd-*your-own-instance*.cloud.mattermost.com
 prod-*.nubank.com.br
 prod-*.nu.com.mx
 prod-*.nu.com.co
+*nubank.world
 *.octopus.com
 *.openai.org
 *.openai.com
@@ -1634,7 +1635,6 @@ test*.redoxengine.com
 *.mint.com
 *.quickbooks.com
 *.turbotax.com
-*53.com
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
@@ -3211,7 +3211,6 @@ www.fing.com*
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
-*.lansweeper.com
 *.libelle.nl
 *.liferay.com
 *.marionnaud.fr
