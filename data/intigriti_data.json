@@ -208,6 +208,12 @@
           "endpoint": "actie.ad.nl",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
           "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
+          "impact": "Out of scope"
         }
       ]
     }
@@ -3282,6 +3288,12 @@
           "endpoint": "cadeau.videoland.com",
           "description": null,
           "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
+          "impact": "Out of scope"
         }
       ]
     }
@@ -3344,6 +3356,199 @@
         }
       ],
       "out_of_scope": []
+    }
+  },
+  {
+    "id": "bd22f48d-633e-4b26-bf71-e4778d41b247",
+    "name": "DataCamp",
+    "company_handle": "datacamp",
+    "handle": "datacamp",
+    "url": "https://www.intigriti.com/programs/datacamp/datacamp/detail",
+    "status": "open",
+    "confidentiality_level": "public",
+    "tacRequired": false,
+    "twoFactorRequired": false,
+    "min_bounty": {
+      "value": 25,
+      "currency": "EUR"
+    },
+    "max_bounty": {
+      "value": 1500,
+      "currency": "EUR"
+    },
+    "targets": {
+      "in_scope": [
+        {
+          "type": "url",
+          "endpoint": "profiles-api.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/certification",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/groups",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/learn",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "assessment-api.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "assessment-v2.datacamp.com ",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "assessment.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "campus.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "android",
+          "endpoint": "com.datacamp",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "ios",
+          "endpoint": "https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "practice.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "projects.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.datacamp.com",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "url",
+          "endpoint": "www.datacamp.com/datalab",
+          "description": null,
+          "impact": "Tier 2"
+        },
+        {
+          "type": "wildcard",
+          "endpoint": "*.datacamp.com",
+          "description": null,
+          "impact": "Tier 3"
+        }
+      ],
+      "out_of_scope": [
+        {
+          "type": "wildcard",
+          "endpoint": "*.it.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "app.datacamp.com/recruit",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "ast-viewer.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "confluence.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "dccertified.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "intranet.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "jira.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "links.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "rdocumentation.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "signature.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "status.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "support.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "url",
+          "endpoint": "talent-jobs-api.datacamp.com",
+          "description": null,
+          "impact": "Out of scope"
+        }
+      ]
     }
   },
   {
@@ -3427,6 +3632,12 @@
           "endpoint": "abonnement.demorgen.be",
           "description": null,
           "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
+          "impact": "Out of scope"
         }
       ]
     }
@@ -3481,6 +3692,12 @@
           "type": "url",
           "endpoint": "actie.volkskrant.nl",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
@@ -5988,6 +6205,12 @@
           "endpoint": "hln.be/service",
           "description": null,
           "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
+          "impact": "Out of scope"
         }
       ]
     }
@@ -6084,6 +6307,12 @@
           "type": "url",
           "endpoint": "abonnement.parool.nl",
           "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
@@ -6260,6 +6489,12 @@
           "type": "url",
           "endpoint": "actie.humo.be",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
@@ -7964,6 +8199,12 @@
           "type": "url",
           "endpoint": "actie.libelle.nl",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
@@ -10001,151 +10242,6 @@
         }
       ],
       "out_of_scope": []
-    }
-  },
-  {
-    "id": "0fd1d85b-2d33-4966-b5a0-caabfda5108e",
-    "name": "Ninja Kiwi Games Bug Bounty program",
-    "company_handle": "ninjakiwigames",
-    "handle": "ninjakiwigames",
-    "url": "https://www.intigriti.com/programs/ninjakiwigames/ninjakiwigames/detail",
-    "status": "open",
-    "confidentiality_level": "public",
-    "tacRequired": false,
-    "twoFactorRequired": false,
-    "min_bounty": {
-      "value": 75,
-      "currency": "EUR"
-    },
-    "max_bounty": {
-      "value": 4125,
-      "currency": "EUR"
-    },
-    "targets": {
-      "in_scope": [
-        {
-          "type": "url",
-          "endpoint": "analytics.ninjakiwi.com",
-          "description": "This domain hosts the API that consumed analytics events from our game clients",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "api.ninjakiwi.com",
-          "description": "This domain hosts the API for our mobile and PC games. Monitoring traffic through one of our game clients is the easiest method to investigate our main API. Most of our applications are available for free on [Steam](https://store.steampowered.com/developer/ninjakiwigames/#browse). Please carefully read the in-scope section regarding what sorts of exploits will be considering in-scope for this domain.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "url",
-          "endpoint": "guts.ninjakiwi.com",
-          "description": "This is the backend services for certain BTD6 in-game features such as Contested Territories and the Map Creator.",
-          "impact": "Tier 1"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.ninjakiwi.me",
-          "description": "ninjakiwi.me is a domain which hosts many of Ninja Kiwi's employtee only services. Any subdomain is eligible for the program.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.nkstatic.com",
-          "description": "This domain hosts static content for Ninja Kiwi games and website.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "battles.tv",
-          "description": "Battles.tv is used to share replays from our Bloons TD Battles game.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "data.ninjakiwi.com",
-          "description": "This domain hosts our **public** data API which grants open access to in-game data from our biggest games. For example player profiles, leaderboards and event information is available through this domain.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ninja.kiwi",
-          "description": "This domain is used by Ninja Kiwi for our URL shortener service, ie https://ninja.kiwi/intigriti.",
-          "impact": "Tier 2"
-        },
-        {
-          "type": "url",
-          "endpoint": "ninjakiwi.com",
-          "description": "Please note that the ninjakiwi.com domain has a number of subdomains which are not in-scope. These are domains which are managed by third party providers. This includes (but it not limited to):\n- support.ninjakiwi.com\n- store.ninjakiwi.com\n- btd6store.ninjakiwi.com\n- battles2store.ninjakiwi.com\n\nIf you are unsure please feel free to reach out to us at security@ninjakiwi.com.",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "url",
-          "endpoint": "alerts.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "boomer2.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "ct.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "mynk-dash.ninjakiwi.com",
-          "description": null,
-          "impact": "Tier 3"
-        },
-        {
-          "type": "url",
-          "endpoint": "mynk.ninjakiwi.com",
-          "description": "This is a legacy domain which powers our Flash games. Uses Flash AMF. This service will be shut down in early December 2026 and is no longer eligible for bounty payments.",
-          "impact": "No Bounty"
-        },
-        {
-          "type": "wildcard",
-          "endpoint": "*.souparea.com",
-          "description": "This domain will be considered out of scope unless it can be shown to allow an exploit on one of our Tier 1-3 domains.",
-          "impact": "No Bounty"
-        }
-      ],
-      "out_of_scope": [
-        {
-          "type": "url",
-          "endpoint": "rancher.ninjakiwi.com",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "rancher.ninjakiwi.me",
-          "description": null,
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "store.ninjakiwi.com",
-          "description": "If you've found an issue with this domain you can contact Shopify here - https://www.shopify.com/bugbounty",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "support.ninjakiwi.com",
-          "description": "If you've found an issue with this domain you can contact Zendesk here - https://support.zendesk.com/hc/en-us/articles/4409154830874-Zendesk-Bug-Bounty-Program",
-          "impact": "Out of scope"
-        },
-        {
-          "type": "url",
-          "endpoint": "icarusadmin.ninjakiwi.com",
-          "description": null,
-          "impact": "Out of scope"
-        }
-      ]
     }
   },
   {
@@ -15232,6 +15328,12 @@
           "endpoint": "actie.trouw.nl",
           "description": "SaaS platform - Report at https://qualifio.com/.well-known/security.txt",
           "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
+          "impact": "Out of scope"
         }
       ]
     }
@@ -15377,6 +15479,12 @@
           "type": "url",
           "endpoint": "elect.tweakers.net",
           "description": null,
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration **(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
@@ -16330,6 +16438,12 @@
           "type": "url",
           "endpoint": "customerservice.vtm.be",
           "description": "Issues related to Zendesk beyond our control are Out of Scope",
+          "impact": "Out of scope"
+        },
+        {
+          "type": "other",
+          "endpoint": "SaaS Applications",
+          "description": "Vulnerabilities in the code or infrastructure of third-party SaaS platforms we use are out of scope and should be reported directly to the vendor.\n\nHowever, issues in those platforms that result from **our own configuration**\n(such as overly permissive access settings, exposed data, or insecure integrations we set up) are in scope.",
           "impact": "Out of scope"
         }
       ]
