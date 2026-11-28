@@ -2967,9 +2967,6 @@ www.paypal-*.com
 *.hackerone-ext-content.com
 *.hackerone-user-content.com
 *.ad.nl
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.reserveamerica.com
 *.aspirafocus.com
 *.attentia.be
@@ -3191,6 +3188,15 @@ www.fing.com*
 *.werkenbijkarwei.nl
 *.karweioutletstore.nl
 *.latchapp.com
+*.klubcinema.fr
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
+*.landmarkcinemas.com
+*.mjrtheatres.com
 *.kiwa.com
 *.kiwaimpact.com
 *.kiwa.info
